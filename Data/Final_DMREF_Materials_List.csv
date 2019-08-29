@@ -1,0 +1,298 @@
+Formula,MP band gap (eV),formation energy per atom (eV),valence band edge (SHE),conduction band edge (SHE),link(s)/Reference(s),synthesized
+AlCuO2,1.8217,-2.428758102,1.826421318,0.004721318,www.dx.doi.org/10.1524/zkri.1983.165.1-4.313,Cu2O + Al2O3 + PbO at 900 C for 48-96 h
+AlTeI7,1.8759,-0.386969721,1.127079026,-0.748820974,"Beck, J.; Fischer, A. Se Br3 (Al Br4) und Te I3 (Al I4) - zwei weitere Vertreter des S Cl3 (Al Cl4)-Strukturtyps Zeitschrift fuer Anorganische und Allgemeine Chemie 621 (1995) 1042-1046",SeBr4 + AlBr3 in sealed ampule at 150 C
+BaCu2O2,1.3793,-1.622989798,1.119347591,-0.259952409,"Teske, C L; Mueller-Buschbaum, Hk Zur Kenntnis von Ba Cu2 O2 Zeitschrift fuer Naturforschung, Teil B. Anorganische Chemie, Organische Chemie (2,1947-32,1977) 27 (1972) 296-301",BaCuO2 (BaCO3 + CuO) + Cu at 1023 K for 2 d
+BaFe18O27,0.7012,-1.81505505,0.891246643,0.190046643,"Braun, P.B. Crystal structure of Ba Fe18 O27 Nature (London) 170 (1952) 708-708",Mixture of barium oxide and Fe3O4 melted and slowly cooled
+Ba2Fe2O5,1.4196,-2.395578758,1.741189514,0.321589514,www.dx.doi.org/10.1107/S0108767392007979,BaCO3 + Fe2O3 at 1373 K for 24 h under N2
+Ba2In2S5,1.9866,-1.683921898,1.278886811,-0.707713189,"Eisenmann, B.; Hofmann, A. Schichtanionen in den Kristallstrukturen der isotypen Verbindungen Sr2(Ga2S5), Ba2(In2S5) und Ba2(In2Se5) Zeitschrift fuer Anorganische und Allgemeine Chemie 580 (1990) 151-159",Ba + In + S at 1150-1250 C in sealed ampule
+Ba2In2Se5,1.3945,-1.262819169,0.814179949,-0.580320051,"Eisenmann, B.; Hofmann, A. Schichtanionen in den Kristallstrukturen der isotypen Verbindungen Sr2(Ga2S5), Ba2(In2S5) und Ba2(In2Se5) Zeitschrift fuer Anorganische und Allgemeine Chemie 580 (1990) 151-159",Ba + In + Se in sealed quartz ampule at 900 C for 50 h
+Ba2PbO4,1.2232,-2.385308395,1.119542444,-0.103657556,"Weiss, R.; Faivre, R. Preparation et structure de plombates et stannates alcalinoterreux du type A2 B O4 Comptes Rendus Hebdomadaires des Seances de l'Academie des Sciences (1884 - 1965) 248 (1959) 106-108","BaCO3 + PbO2 at 450 C for 12 h, then 950 C for 12 h in sealed ampule, sintered in air for 24 h at 950 C"
+Ba2SnSe3F2,1.7222,-2.256748696,1.316356703,-0.405843297,www.dx.doi.org/10.1021/ic051592v,BaF2 + BaS + SnSe + Se in sealed ampule at 700 C for 12 h
+Ba3MnNb2O9,1.7673,-3.141522778,1.701109276,-0.066190724,"Liu, Y.; Withers, R.L.; Whichello, A.P.; Noren, L.; Ting, V.; Fitz Gerald, J.D.; Brink, F. A combined diffraction and dielectric properties investigation of Ba3 Mn Nb2 O9 complex perovskites Journal of Solid State Chemistry 178 (2005) 3389-3395","BaCO3 + MnO2 + Nb2O5 at 850 C for 20 h, then 1350 C for 5 d"
+Ba3V2P6H6O24,1.7951,-2.638581117,1.760116588,-0.034983412,www.dx.doi.org/10.1107/S0108270199015735,BaCO3 + VCl3 + H3PO4 + Guanidinium carbonate + H2O at 453 K for 24 h in hydrothermal bomb
+Ba3Zn5In2O11,1.6191,-2.196124298,1.669596329,0.050496329,www.dx.doi.org/10.1002/zaac.19936190322,BaO + AnO + In2O3 in HNO3 + KO2 at 750 C for 12 d
+Ba6Mn5O16,1.2983,-2.530030504,1.415982942,0.117682942,"Boulahya, K.; Parras, M.; Gonzalez-Calbet, J.M.; Martinez, J.L. Synthesis and structural characterization of Ba6 Mn5 O16: the first layered oxide isostructural to Cs6 Ni5 F16 Chemistry of Materials (1,1989-) 14 (2002) 4006-4008",BaCO3 + MnO2 in air at 1250 C for 3 d and quenched
+Ba6V4S11O5,1.9141,-2.090907812,1.460952675,-0.453147325,www.dx.doi.org/10.1107/S0108270196011687,BaS + V + V2O5 + S in sealed ampule at 1198 K for 4 d
+Ba8Sb6S17,1.3935,-1.620129685,0.841871671,-0.551628329,"Doerrscheidt, W.; Schaefer, H. Zur Kenntnis des Bariumthioantimonats(III) Ba8 Sb6 S17 Zeitschrift fuer Naturforschung, Teil B. Anorganische Chemie, Organische Chemie (33,1978-41,1986) 36 (1981) 410-414",BaS + Sb2O3 at 1120 K
+BaAlSi5N7O2,1.5107,-1.086028649,1.134999044,-0.375700956,www.dx.doi.org/10.1021/cm031129l,Ba + Si3N4 + AlN  heated to 1600 C for 8 h
+BaCaFe4O8,1.7786,-2.258135931,1.780639565,0.002039565,www.dx.doi.org/10.1016/0025-5408(71)90106-1,BaNO3 + CaCO3 + FeO in air at 1100 C
+BaHfN2,1.2537,-1.532210689,0.882115333,-0.371584667,www.dx.doi.org/10.1006/jssc.1997.7686,"Ba3N2 (Ba in molten Na at 250 C, heated to 520 C under N2, then 350 C for 24 under vacuum), + HfN2 in Mo foil welded, heated to 1000 C for 5 d under Ar"
+BaIn2O4,1.6657,-2.280385926,1.543386152,-0.122313848,www.dx.doi.org/10.1016/0022-5088(89)90209-9,BaCO3 + In2O3 at 840 C for 12 h
+BaMgTe2O7,1.8494,-2.245259462,0.832188239,-1.017211761,www.dx.doi.org/10.1021/ic202602q,BaCO3 + MgCO3 + TeO2 + H2TeO4-2H2O to 650 C for 3 d in air (3.39 eV band gap)
+BaS2,1.5761,-1.859439449,0.876302863,-0.699797137,"Kawada, I.; Yamaoka, S.; Kato, K. Barium disulphide Acta Crystallographica B (24,1968-38,1982) 31 (1975) 2905-2906",BaS2 + S in sealed ampule at 550 C
+BaSbSe2F,1.3343,-1.808363293,1.532656609,0.198356609,www.dx.doi.org/10.1021/ic051969x,BaF2 + Ba + Sb2Se3 + Se at 700 C in sealed ampule
+BaSnS2,1.6394,-1.625334751,0.849778158,-0.789621842,"Iglesias, J.E.; Steinfink, H. A variant of the Na Cl structure type: Ba Sn S2 Acta Crystallographica B (24,1968-38,1982) 29 (1973) 1480-1483",BaS + SnS at 750 C for 2 weeks
+BaTa2Bi2O9,1.9158,-2.802819359,1.629803893,-0.285996107,"Marquart, R.; Kennedy, B.J.; Shimakawa, Y. Cation disorder in the ferroelectric oxides A Bi2 Ta2 O9, A = Ca, Sr, Ba Journal of Solid State Chemistry 160 (2001) 174-177",BaCO3 + Ta2O5 + Bi2O3 at 1000-1370 C for 12-30 h in air
+Ca12Al14O33,1.9743,-3.453231882,1.521631822,-0.452668178,www.dx.doi.org/10.1107/S0108768107030005,"CaO + Al2O3 at 453 K for 1 week, 1623 K for 24 h, 1623 K for 48 h"
+Ca2CoO3,1.754,-2.477465595,0.991121809,-0.762878191,"Miyazaki, Y.; Onoda, M.; Oku, T.; Kikuchi, M.; Ishii, Y.; Ono, Y.; Morii, Y.; Kajitani, T. Modulated structure of the thermoelectric compound (Ca2 Co O3)0.62 Co O2 Journal of the Physical Society of Japan 71 (2002) 491-497",CaCO3 + Co3O4 ball-milled in IPA and calcined at 900 C for 17 d
+Ca2CuTe4Cl2O10,0.7175,-1.929257232,0.942106823,0.224606823,www.dx.doi.org/10.1107/S0108270105028234,"CaO+CuCl2+CuO+TeO2 in 1:1:1:2 ratio in sealed quartz tube, 72 h at 900 K"
+Ca2FeClO3,0.9904,-2.69175188,0.976507517,-0.013892483,"Parthe, E.; Hu, S.-Z. Ca Fe O2 Cl and Ca2 Fe O3 Cl with higher space group symmetry, a reevaluation Journal of Solid State Chemistry 174 (2003) 165-166",CaCl2 + Fe2O3 in CaCl2 flux at 850 C for 5 h in Pt crucible
+Ca2PbO4,1.482,-2.571897361,1.127451067,-0.354548933,www.dx.doi.org/10.1002/zaac.19926070122,already made and sent to Cornell
+Ca3PCl3,1.8419,-2.268943791,0.924687296,-0.917212704,"Hadenfeldt, C.; Herdejuergen, H. Darstellung, Kristallstruktur und thermisches Verhalten der Calciumphosphidchloride Ca2-x P1-x Cl1+x (0< x< 0.18) und Ca3 P Cl3 Journal of the Less-Common Metals 124 (1986) 93-103",Ca3P2 + CaCl2 in steel ampules under Ar at 740 C then 950 C
+CaFeClO2,1.9232,-2.478051764,1.829880939,-0.093319061,"Parthe, E.; Hu, S.-Z. Ca Fe O2 Cl and Ca2 Fe O3 Cl with higher space group symmetry, a reevaluation Journal of Solid State Chemistry 174 (2003) 165-166",CaCl2 + Fe2O3 at 800 C for 6 h in Pt crucible
+CaSb10S6O10,1.7465,-1.498445417,0.981427616,-0.765072384,www.dx.doi.org/10.1107/S0567740878011619,CaO + SrCO3 + Sb2S3 + Sb2O3 at 100-650 C hydrothermally
+CaTaNO2,1.6122,-2.770636656,1.552500028,-0.059699972,www.dx.doi.org/10.1002/1521-3749(200007)626:7<1519::AID-ZAAC1519>3.0.CO;2-I,CaCO3 + Ta2O5 at 900 C in ammonia
+CoGeO3,1.4633,-1.828688966,1.007785531,-0.455514469,"Peacor, D.R. The crystal structure of Co Ge O3 Zeitschrift fuer Kristallographie, Kristallgeometrie, Kristallphysik, Kristallchemie (-144,1977) 126 (1968) 299-306",Co3O4 + GeO2 at 1273 K for 18 days
+CoPO4,1.1587,-2.142834406,1.294524626,0.135824626,www.dx.doi.org/10.1016/j.ssi.2003.09.015,Electrochemical dilithiation of LiCoPO4 ( Co nitrate + LiNO3 + NH4H2PO4 + citric acid in water)
+CoPb2WO6,1.7802,-1.774045965,0.855053595,-0.925146405,www.dx.doi.org/10.1107/S0108768100000677,PbO + WO3 + CoO in sealed ampule at 1050 K for 12 h
+CoSeO4,1.6889,-1.263421481,1.668266066,-0.020633934,"Fuess, H.; Will, G. Bestimmung der Kristallstruktur der Selenate M Se O4 (M = Mn, Co, ni) durch Roentgen- und Neutronenbeugung Zeitschrift fuer Anorganische und Allgemeine Chemie 358 (1968) 125-137","SeO2 + Co2CO3(OH)2 (CONO3-5H2O + Na2CO3 at 90 C for 2 h)  in water evap. over several days, heated to 315 C for several days"
+Cr2TeO6,1.3565,-2.019535933,0.837316454,-0.519183546,"Kunnmann, W.; Corliss, L.M.; la Placa, S.J.; Hastings, J.M.; Banks, E. Magnetic structures of the ordered trirutiles Cr2 W O6, Cr2 Te O6 and Fe2 Te O6 Journal of Physics and Chemistry of Solids 29 (1968) 1359-1364","Te + Cr2O3 slowly heated to 600 C, then fired at 700 C until pure- crucible prefired with tellurium oxide at 900 C for 12 h"
+Cr3BO6,1.602,-2.466734576,1.299417792,-0.302582208,www.dx.doi.org/10.1039/b100707f,Cr2(SO4)3-6H2O + H3BO3 ball-milled and fired at 680 C for 3 d
+CrCuP2S6,0.9574,-0.750906733,0.969652732,0.012252732,www.dx.doi.org/10.1021/cm00030a006,Cr + Cu + P + S in sealed ampule at 700 C
+CrPb5O8,1.8799,-1.619119913,1.257457107,-0.622442893,"Krivovichev, S.V.; Armbruster, T.; Depmeier, W. Crystal structures of Pb8 O5 (As O4)2 and Pb5 O4 (Cr O4) and review of (Pb O)-related structural units in inorganic compounds Journal of Solid State Chemistry 177 (2004) 1321-1332",PbO + Pb2O(CrO4) (CrO3 + PbO + NaOH hydrothermally at 120 C for 18 h) in air at 900 C
+Cs4Ta2S11,1.8065,-1.397352356,0.909840376,-0.896659624,www.dx.doi.org/10.1107/S0108270197018404,Cs2S3 (Cs + S in liquid NH3) + Ta + S in sealed ampule at 773 K for 2 d
+Cs4Ti3S14,1.294,-1.473542398,1.129382509,-0.164617491,www.dx.doi.org/10.1021/ic0011260,Ti + S + Cs2S3 flux (Cs + S in NH3) heated to 873 K for 4 d
+Cs4Zr3Se14,1.5144,-1.062947126,1.08799353,-0.42640647,www.dx.doi.org/10.1021/ic0011260,Zr + Se + Cs2Se3 (Cs+Se in liquid NH3)
+CsCuBi2S4,0.832,-0.876127246,1.164158601,0.332158601,"Huang, F.Q.; Mitchell, K.; Ibers, J.A. Syntheses and structures of the quaternary alkali-metal bismuth coinage-metal chalcogenides K3 Bi5 Cu2 S10, Cs Bi2 Cu S4, Rb Bi2.66 Cu Se5 and Cs Bi Ag2 S3 Journal of Alloys Compd. 325 (2001) 84-90",Cu + Bi in reactive flux Cs2S3 (Cs+S in NH3) in sealed quartz tube 600 C for 3 d
+CsCuO2,0.9434,-1.366512312,0.885918263,-0.057481737,"Hestermann, K.; Hoppe, R. Die Kristallstruktur von K Cu O2, Rb Cu O2 und Cs Cu O2 Zeitschrift fuer Anorganische und Allgemeine Chemie 367 (1969) 249-260",CsO2 + CuO under flowing oxygen at 400 C for 6 d
+CsGeI3,1.589,-0.849316031,1.345767922,-0.243232078,www.dx.doi.org/10.1021/jacs.5b01025,HI + H3PO2 + GeI4 + CsI (colloidal)
+CsLaNb2O7,1.4414,-3.215240443,1.817141178,0.375741178,www.dx.doi.org/10.1107/S0108270195015848,Cs2CO3 + La2O3 + Nb2O5 in 4:1:2 ratio at 1273 K in air
+CsMnP4O12,1.6921,-2.595474299,1.232375154,-0.459724846,"Murashova, E.V.; Chudinova, N.N. Synthesis and crystal structure of the double polyphosphate Cs Mn (P O3)4 Neorganicheskie Materialy 36 (2000) 1512-1515",MnO2 + Cs2CO3 + 85% H3PO4 in Pt crucible and heated btw 300-400 C for 5 d
+CsMnBr3,1.2909,-1.262992672,1.333413818,0.042513818,"Seifert, H.J.; Dau, E. Ueber die Systeme Alkalimetallbromid/Mangan(II)-bromid Zeitschrift fuer Anorganische und Allgemeine Chemie 391 (1972) 302-312","photovoltaic, can be made colloidally or via thin films"
+CsMnI3,1.0158,-0.920062706,0.851643711,-0.164156289,"Zandbergen, H.W. Neutron powder diffraction and magnetic measurements on Cs Mn I3 Journal of Solid State Chemistry 35 (1980) 367-375",MnI2 (prepared from the elements and purified by submlimation) + CsI at 380 C for 7 d in sealed ampule
+CsSbS2,1.8406,-1.067564843,0.977526389,-0.863073611,"Kanishcheva, A.S.; Batog, V.N.; Mikhailov, Yu.N.; Kuznetsov, V.G. Crystal structure of Cs Sb S2 Doklady Akademii Nauk SSSR 251 (1980) 603-605",hydrothermal synthesis of Cs2S and Sb2S3
+Cu2WO4,1.3749,-1.450783719,0.884716045,-0.490183955,www.dx.doi.org/10.1016/0022-5088(88)90165-8,CuWO4 (CuO and WO3 800C for 20 h) + Cu
+Cu2WS4,1.4454,-0.841077685,1.672786677,0.227386677,"Crossland, C.J.; Evans, J.S.O. Synthesis and characterisation of a new high pressure polymorph of Cu2 W S4 Chemical Communications 2003 (2003) 2292-2293",synthesized colloidally
+Cu3SbS3,0.9983,-0.480705296,1.04806256,0.04976256,www.dx.doi.org/10.1524/zkri.1998.213.4.228,Cu2S + Sb2S3 at 853 K in sealed quartz tube
+Cu4Mo5O17,0.7571,-1.691497871,0.98264855,0.22554855,www.dx.doi.org/10.1002/zaac.19855301102,Cu2O + MoO3 in sealed ampule
+CuI,1.6308,-0.156434982,1.878562727,0.247762727,www.dx.doi.org/10.1021/ja01422a005,can be purchased 
+CuP2,0.8635,-0.116654911,1.202699708,0.339199708,"Olofsson, O. The crystal structures of Cu P2 and Ag P2 with some phase analytical data of the Cu-P and Ag-P systems Acta Chemica Scandinavica (1-27,1973-42,1988) 19 (1965) 229-241",Copper halide + red P +hexadecane --> Schlenk technique
+Fe12PbO19,1.1817,-1.797852117,1.383919157,0.202219157,"AdelskÌ¦ld, V. X-ray studies on Magneto Plumbite PbO åá 6Fe~2~O~3~ and other substances resembling ë_-alumina Na~2~O åá 11Al~2~O~3~ Arkiv fÌ¦r Kemi, Mineralogi och Geologi, A 12(2) (1938) 1-9","PbO+NH4Al(SO4)2+NH4Fe(SO4)2 heated to 400C, then 1000 C for 1 h 2x"
+Fe2CuP4O14,0.7737,-2.390388664,1.171784328,0.398084328,www.dx.doi.org/10.1107/S0108270196000856,CuO + Fe2O3 + (NH4)2HPO4 at 1000 C for 24 h with slow cool
+Fe2GeO4,1.4077,-1.959907108,1.414854078,0.007154078,www.dx.doi.org/10.1180/002646101300119529,GeO2 + NaOH + HCl + FeCl2 to 500 C for 1 h in autoclave
+Fe2TeO6,1.2382,-1.745859228,1.013853204,-0.224346796,"Krishnan, K.; Singh Mudher, K.D.; Venugopal, V.; Rama Rao, G.A. Structural and thermochemical studies on Cr2 Te O6 and Fe2 Te O6 Journal of Alloys Compd. 316 (2001) 264-268",Fe2O3 + TeO2 heated to 700 C for 24 h 3x
+Fe3BO5,1.0195,-2.123274244,1.07025637,0.05075637,"Swinnea, J. S.; Steinfink, H. Crystal structure and Mossbauer spectrum of vonsenite, 2FeO*FeBO3 American Mineralogist 68 (1983) 827-832",Fe+Fe2O3+B2O3 in sealed ampule at 900 C for 3 d
+Fe3BO6,1.7877,-2.100276879,1.45435637,-0.33334363,www.dx.doi.org/10.1107/S0365110X6500498X,"Na3BO3 + Fe2O3 at 200 C, then 1200 C in air for 18 h then heated in boiling water then treated with HCl"
+Fe3Te2C9O9,1.7141,-0.556561732,1.318678271,-0.395421729,"Schumann, H.; Magerstaedt, M.; Pickart, J. Die Kristall- und Molekuelstruktur von Fe3 Te2 (C O)9 Journal of Organometallic Chemistry 240 (1982) 407-411","Fe(CO)4I2 (Fe(CO5) in I2) + Na2Te in THF, solvent removed under vacuum"
+Fe4Bi2O9,1.8957,-1.784072371,1.8372593,-0.0584407,"Niizeki, N.; Wachi, M. The crystal structures of Bi2Mn4O10, Bi2Al4O9 and Bi2Fe4O9 Zeitschrift fur Kristallographie 127 (1968) 173-187",from melt of Bi2O3 + 2 Fe2O3
+Fe7P8O28,0.9326,-2.471395213,1.322187204,0.389587204,"Malaman, B.; Ijjaali, M.; Gerardin, R.; Venturini, G.; Gleitzer, C. Fe7(P2O7)4, a mixed-valence iron diphosphate, the missing link between Fe2P2O7 and Fe3(P2O7)2 European Journal of Solid State and Inorganic Chemistry 29 (1992) 1269-1284",Fe2P2O7+Fe4(P2O7)3 at 900 C in sealed ampule
+FeCoPO5,1.7627,-2.187295504,1.389065371,-0.373634629,"El Khayati, N.; Cherkaoui El Moursli, R.; Rodriguez-Carvajal, J.; Roisnel, T.; Blanchard, N.; Bouree, F.; Andre, G.; Collin, G. Crystal and magnetic structures of the oxyphosphates M Fe P O5 (M = Fe, Co, Ni, Cu). Analysis of the magnetic ground state in terms of superexchange interactions The European Physical Journal B 22 (2001) 429-442",CoCO3 + FePO4 (Fe2O3 + (NH4)2HPO4 at 800 C for 24 h) at 1000 C for 2 d
+FeGeO3,1.5712,-2.011854787,0.942877891,-0.628322109,www.dx.doi.org/10.2138/am.2012.3995,Fe + Fe2O3 + GeO2 in sealed ampule at 1273 K for 3-4 d
+FeNi2BO5,1.8488,-1.76980056,1.047276822,-0.801523178,www.dx.doi.org/10.1002/zaac.19905820103,NiO + Fe2O3 + B2O3 at 1100 C for 4 h
+Ga2TeSe2,1.6077,-0.514045676,0.913946193,-0.693753807,"Bredol, M.; Leute, V. The crystal structure of Ga2 Se2 Te. Physica Status Solidi, Sectio A: Applied Research 107 (1988) 7-10",Ga2Se3 + Ga2Te3 at 800 K for 1 year
+GaBiO3,1.8782,-1.97918285,1.909714911,0.031514911,"Belik, A.A.; Matsui, Y.; Kamiyama, T.; Wuernisha, T.; Mori, K.; Maie, M.; Nagai, T.; Takayama-Muromachi, E. High-pressure synthesis, crystal structures, and properties of perovskite-like Bi Al O3 and pyroxene-like Bi Ga O3 Chemistry of Materials (1,1989-) 18 (2006) 133-139","Bi2O3+Ga2O3 heated to 1023 K for 8 h in air, then 6 gPa and 1473 K for 15 min"
+GaCuI4,1.6967,-0.414112438,1.98066676,0.28396676,"Burnus, R.; Zajonc, A.; Meyer, G. Crystal structure of copper(I) tetraiodogallate(III), Cu Ga I4 Zeitschrift fuer Kristallographie (149,1979-) 210 (1995) 62-62",CuI + GaI3 in sealed ampule at 573 K (slow cooling to room temp at 1 K/h)
+GaCuO2,0.9825,-1.686383359,1.394342232,0.411842232,www.dx.doi.org/10.1021/ic502659e,"Na2CO3 + Ga2O3 at 900 C for 20 h, then mixed with CuCl and fired at 250 C for 48 under vacuum"
+GaN,1.7433,-0.665803209,1.264868389,-0.478431611,www.dx.doi.org/10.1002/zaac.19382390307,can be made via thin films
+GaP2I9,1.7112,-0.238845555,1.01324239,-0.69795761,www.dx.doi.org/10.1107/S1600536800018419,"PI3 +GaI3 in CS2 at room temp, solvent removed under vacuum"
+GaS,1.8818,-0.98448807,0.962289918,-0.919510082,"Wyckoff, R. W. G. Second edition. Interscience Publishers, New York, New York Crystal Structures 1 (1963) 85-237",can be made as thin films or colloidally
+Ge4Se9,1.2221,-0.241956552,1.708067919,0.485967919,www.dx.doi.org/10.1107/S0108270105021979,Ta+Ge+Se+RbCl in sealed ampule at 1073K for 96 h
+GeI4,1.996,-0.287115711,1.667222248,-0.328777752,"Jaeger, F M; Terpstra, P; Westenbrink, H G K On the crystal structure of germanium-tetraiodide Proceedings of the Koninklijke Nederlandse Academie van Wetenschappen 28 (1925) 747-766",can be bought
+GeS,1.2376,-0.587086266,1.527818602,0.290218602,"Zachariasen, W H The crystal lattice of germano sulphide, Ge S Physical Review (1,1893-132,1963/141,1966-188,1969) 40 (1932) 917-922",can be made via thin films
+GeSe,0.8988,-0.220734136,1.214589718,0.315789718,"Wyckoff, R. W. G. Second edition. Interscience Publishers, New York, New York Crystal Structures 1 (1963) 85-237",Can be made colloidally
+GeSe2,1.4381,-0.270024639,1.816067919,0.377967919,"Grzechnik, A.; Mezouar, M.; Stolen, S.; Bakken, E.; Grande, T. Structural transformations in three-dimensional crystalline Ge Se2 at high pressures and high temperatures Journal of Solid State Chemistry 150 (2000) 121-127",Ge + Se at 1173 for 48 h in sealed quartz tube
+GeTe,0.7469,-0.091003237,0.95878581,0.21188581,"Abrikosov, N.Kh.; Danilova-Dobryakova, G.T. An investigation of the structural diagram of Sb2 Te3 - Ge Te Inorganic Materials (USSR) (see: Izv.Akad.Nauk, Neorg.Mater.) 1 (1965) 187-190",Ge + Te in sealed ampule at 1000C for 24
+In2O3,0.9324,-2.027263436,1.177758523,0.245358523,www.dx.doi.org/10.1107/s0365110x66001749,can be purchased 
+In4Bi2S9,1.6314,-0.880930336,0.823534699,-0.807865301,"Chapuis, G.; Gnehm, C.; Kraemer, V. Crystal structure and crystal chemistry of bismuth indium sulphide, Bi2 In4 S9 Acta Crystallographica B (24,1968-38,1982) 28 (1972) 3128-3130",Bi + In + S + I via CVT with temperature gradient of 680-600 C
+InBr,1.2575,-0.690476895,1.039420057,-0.218079943,"Wyckoff, R. W. G. Second edition. Interscience Publishers, New York, New York Crystal Structures 1 (1963) 85-237",In + InBr3
+InI,1.3414,-0.483638315,0.808472384,-0.532927616,"Wyckoff, R. W. G. Second edition. Interscience Publishers, New York, New York Crystal Structures 1 (1963) 85-237",In + I via sublimation 200 C to 100 C gradient
+InSb2S4Br,1.522,-0.758601422,1.242820546,-0.279179454,www.dx.doi.org/10.1021/cm701995d,In + SbBr3 + Sb + S at 450 C in sealed ampule
+InSb2S4Cl,1.5135,-0.87330234,1.34322737,-0.17027263,www.dx.doi.org/10.1021/cm701995d,In + SbCl3 + Sb + S at 450 C in sealed ampule
+InSb2Se4Br,1.1267,-0.421157887,1.468298386,0.341598386,www.dx.doi.org/10.1021/cm701995d,In + SbBr3 + Sb + Se in sealed quartz ampule
+K2BaNiN6O12,1.6929,-1.254097271,1.576674221,-0.116225779,"Takagi, S.; Lehnert, P.G.; Joesten, M.D. Potassium barium hexanitroniccolate(II) Acta Crystallographica B (24,1968-38,1982) 31 (1975) 1970-1972",KNO3 + NiCl + BaCl2 in aqueous solutions
+K2CoCl4,0.8938,-1.728628107,1.319957403,0.426157403,"Vermin, W.J.; Verschoor, G.C.; Ijdo, D.J.W. Two modifications of cobalt dipotassium tetrachloride Acta Crystallographica B (24,1968-38,1982) 32 (1976) 3325-3328","KCl + CoCl2 melted, annealed in sealed quartz tube at 400 C for 1 week (phase change after several months)"
+K2NbCuS4,1.9582,-1.384230765,0.900184766,-1.058015234,"Bensch, W.; Duerichen, P.; Weidlich, C. Crystal structure of dipotassium copper niobium tetrasulfide, K2 Cu Nb S4 Zeitschrift fuer Kristallographie (149,1979-) 211 (1996) 931-931",K2S3 + Cu +Nb + S at 623 K for 6 d
+K2TaCuSe4,1.9842,-0.956132302,0.924863577,-1.059336423,"Lu, Y.-J.; Wu, P.; Ibers, J. A. Synthesis of the new one-dimensional quaternary compound K2CuTaSe4 and its structural relationship to other compounds in the K/Cu/M/Q (M = Nb, Ta; Q = S, Se) system European Journal of Solid State and Inorganic Chemistry 30 (1993) 101-110",K2Se5 + Ta + Cu + Se in sealed ampule at 950 C
+K3LaP2Se8,1.4575,-0.934803151,0.924218769,-0.533281231,www.dx.doi.org/10.1021/ic000595z,Se + K2Se4 + P + La in sealed ampule at 725 C for 150 h
+K3P11,1.93,-0.322020416,1.273452802,-0.656547198,"von Schnering, H.G.; Kliche, G.; Somer, M.; Ohse, L.; Kempa, P.B.; Wolf, J.; Meyer, T.; Hoenle, W. Darstellung, Eigenschaften und Schwingungsspektren der Kaefiganionen P11(3-) und As11(3-) Zeitschrift fuer Anorganische und Allgemeine Chemie 601 (1991) 13-30","K + P in sealed ampule at 380 C for 12 h, 470 C for 86 h"
+K3PSe16,1.0901,-0.348830612,0.947418862,-0.142681138,www.dx.doi.org/10.1021/ic015602d,K2Se3 (K+Se in liquid NH3) + P2Se5 (P+Se in ampule at 450 C for 24 h) + Se + 1 mL acetonitrile heated to 110 C for 24 h
+K3PSe4,1.8282,-0.877256903,1.396149615,-0.432050385,"B. C. Chan; P. L. Feng; Z. Hulvey; P. K. Dorhout Crystal structure of tripotassium tetraselenidophosphate, K~3~PSe~4~ Zeitschrift fÌ_r Kristallographie - New Crystal Structures 220(1) (2005) 11-11",P + Se + K2Se2 in sealed ampule at 500 C for 150 h
+K3SbTe3,1.711,-0.788328481,0.825031447,-0.885968553,"Eisenmann, B.; Zagler, R. Crystal structure of tripotassium tritelluroantimonate(III) Zeitschrift fuer Kristallographie (149,1979-) 197 (1991) 255-256",K + Sb + Te in graphitized sealed ampule at 973 K
+K3VP2O8,1.9782,-2.692331538,1.127426621,-0.850773379,www.dx.doi.org/10.1016/0022-4596(91)90080-2,"K2CO3 + H(NH4)2PO4 + V2O5 at 673 K in air, + V in sealed ampule at 972 K for 1 wk"
+K4BeP2,1.1402,-0.382449731,1.087821766,-0.052378234,"Somer, M.; Hartweg, M.; Peters, K.; von Schnering, H.G. Crystal structure of potassium diphosphidoberyllate Zeitschrift fuer Kristallographie (149,1979-) 192 (1990) 263-264",K + Be + P in Nb ampule at 950 K
+K4P21I,1.3384,-0.308060656,1.80450547,0.46610547,"Hoenle, W.; Schmettow, W.; Peters, K.; von Schnering, H.G.; Chang Jenhui The henicosaphosphide iodides of potassium and rubidium, K4 P21 I and Rb4 P21 I Zeitschrift fuer Anorganische und Allgemeine Chemie 630 (2004) 1858-1862",K + P + I in sealed ampule at 373 K for 3 d
+K6MnS4,1.3035,-1.291056043,1.41086572,0.10736572,"Bronger, W.; Balk-Hardtdegen, H. Darstellung, Struktur und magnetisches Verhalten von Alkalimetallmanganchalkogeniden A6 Mn X4 mit A = Na oder K und X = S, Se oder Te Zeitschrift fuer Anorganische und Allgemeine Chemie 574 (1989) 89-98",K2CO3 + S + Mn under H2 at 1070 K
+K6MnSe4,1.2349,-1.052944902,1.174471715,-0.060428285,"Bronger, W.; Balk-Hardtdegen, H. Darstellung, Struktur und magnetisches Verhalten von Alkalimetallmanganchalkogeniden A6 Mn X4 mit A = Na oder K und X = S, Se oder Te Zeitschrift fuer Anorganische und Allgemeine Chemie 574 (1989) 89-98",K2CO3 + MnCO3 + Se in stream of hydrogen charged with Se
+K6MnTe4,1.4227,-0.9235557,1.019213034,-0.403486966,"Bronger, W.; Balk-Hardtdegen, H. Darstellung, Struktur und magnetisches Verhalten von Alkalimetallmanganchalkogeniden A6 Mn X4 mit A = Na oder K und X = S, Se oder Te Zeitschrift fuer Anorganische und Allgemeine Chemie 574 (1989) 89-98",K2CO3 + Te + Mn
+KBiP2Se6,1.614,-0.403440043,1.492092629,-0.121907371,"Breshears, J.D.; Kanatzidis, M.G. beta-(K M P2 Se6) (M = Sb, Bi): kinetically accessible phases obtained from rapid crystallisation of amorphous precursors Journal of the American Chemical Society 122 (2000) 7839-7840",K2Se + Bi + P2Se5 + Se in sealed quartz tube at 200 C
+KCoO2,0.9921,-1.544481944,0.98786331,-0.00423669,"Jansen, M.; Hoppe, R. Zur Kenntnis von K Co O2 und Rb Co O2 Zeitschrift fuer Anorganische und Allgemeine Chemie 417 (1975) 31-34",KO2 + CuO under flowing oxygen at 400 C for 6 d
+KCuO2,0.8605,-1.388226858,0.972884353,0.112384353,"Hestermann, K.; Hoppe, R. Die Kristallstruktur von K Cu O2, Rb Cu O2 und Cs Cu O2 Zeitschrift fuer Anorganische und Allgemeine Chemie 367 (1969) 249-260",KO2 + CuO under flowing oxygen at 400 C for 6 d
+KLa5C2Cl10,1.9383,-2.318409704,1.523382456,-0.414917544,"Uhrlandt, S.; Meyer, G. Trigonal-bipyramidale Cluster mit interstitiellen C2Hanteln in den Chloriden K (M5 (C2)) Cl10 (M= La, Ce, Pr) und Rb (M5 (C2)) Cl10 (M= Pr, Nd) Zeitschrift fuer Anorganische und Allgemeine Chemie 620 (1994) 1872-1878",LaCl3 + K + La + C in sealed Nb ampule at 700-900 C
+KNaZnO2,1.7773,-1.647386828,0.898573918,-0.878726082,"Hoppe, R.; Baier, R. Ein neues Oxozincat: Ueber K Na Zn O2 Zeitschrift fuer Anorganische und Allgemeine Chemie 511 (1984) 161-175",KO.54 + N2O + ZnO in sealed ampule at 600 C for 14 d
+KSbP2Se6,1.7977,-0.365938098,0.992665709,-0.805034291,"Breshears, J.D.; Kanatzidis, M.G. beta-(K M P2 Se6) (M = Sb, Bi): kinetically accessible phases obtained from rapid crystallisation of amorphous precursors Journal of the American Chemical Society 122 (2000) 7839-7840",K2Se + Sb + P2Se5 + Se in sealed quartz tube at 200 C
+KV3P4O17,1.1557,-2.61716407,0.874384405,-0.281315595,www.dx.doi.org/10.1016/0022-4596(92)90017-P,"K2CO3 + H(NH4)2PO4 + V2O5 heated to 653 K in air, then to 923 K for 7 d in sealed ampule"
+LaSb3O9,1.4864,-2.330696904,0.878428817,-0.607971183,www.dx.doi.org/10.1039/b307496j,La2O3 + Sb2O5 + TeO2 in sealed Au tube heated to 900 C for 24 h (single crystal); polycrystalline = La(NO3)3-H2O + Sb2O5 at 900 C for 48 h in air
+La10Se14O,1.5519,-2.182961371,1.227095311,-0.324804689,www.dx.doi.org/10.3390/cryst2031136,La + Se + SeO2 + CsCl in sealed ampule at 800 C for 4 d
+La4Mo2O11,1.8151,-3.248662385,1.160971229,-0.654128771,www.dx.doi.org/10.1107/S0108270192003214,La2O3 + MoO3 + Mo at 1980 K for 48 h
+La4Se3O4,1.3261,-3.143345279,1.325192093,-0.000907907,www.dx.doi.org/10.1021/ic800233c,La + Se + SeO2 in sealed quartz tube heated to 750 C for 168 h
+La6BN3O6,1.0963,-3.026209098,0.907470904,-0.188829096,www.dx.doi.org/10.1002/1521-3749(200207)628:7<1548::AID-ZAAC1548>3.0.CO;2-E,Li3BN2 + Li3N + LaOCl at 950 C
+LaCuS2,1.2324,-1.804859444,0.990743548,-0.241656452,"Strobel, S.; Lauxmann, P.; Schleid, T. Muenzmetall-Lanthanid-Chalkogenide:I. Kupfer(I)-Lanthanid(III)-Sulfide der Zusammensetzung Cu M S2(M = La - Nd, Sm, Gd, Tb) im monoklinen A-Typ Zeitschrift fuer Naturforschung, Teil B. Anorganische Chemie, Organische Chemie (42,1987-) 60 (2005) 917-923",La2Cu2O5 (La2O3 + Cu2O) +S
+LaCuSO,1.6691,-2.407106107,1.446398984,-0.222701016,"Ueda, K.; Hosono, H. Crystal structure of La Cu O S1-x Sex oxychalcogenides Thin Solid Films 411 (2002) 115-118",La2O3 + La2S3 + Cu2S at 800 C
+LaCuSeO,1.5468,-2.208089602,1.316867004,-0.229932996,"Ueda, K.; Hosono, H. Crystal structure of La Cu O S1-x Sex oxychalcogenides Thin Solid Films 411 (2002) 115-118",La2O3 + La2Se3 (La + Se at 300 C) + Cu + Se 800 C
+LaP3H6O6,1.2893,-1.689906187,1.470442082,0.181142082,www.dx.doi.org/10.1021/ic990187z,La2O3 + 50% H3PO2 + Conc. HCl
+LaSO,1.5229,-3.11907285,1.579698922,0.056798922,www.dx.doi.org/10.1107/S0108270189013375,S+K2S+La2O3 at 923 K under Ar
+LaTiNO2,1.2144,-3.056866092,1.530712142,0.316312142,"Clarke, S.J.; Guinot, B.P.; Michie, C.W.; Rosseinsky, M.J.; Calmont, M.J.C. Oxynitride perovskites: synthesis and structures of La Zr O2 N, Nd Ti O2 N and La Ti O2 N and comparison with oxide perovskites Chemistry of Materials (1,1989-) 14 (2002) 288-294","La2O3+TiO2 in air at 1050 C for 24 h, 1310 in air for 24 h, ammonia at 950 C for 20 h, 6 h, and 6 h"
+LaTiNbBi2O9,1.7236,-2.85784406,1.669650731,-0.053949269,"Nalini, G.; Subbanna, G.N.; Guru Row, T.N. Studies on n=2 Aurivillius phases: structure of the series Bi3-x Lax Ti Nb O9 (0 <= x <= 1) Materials Chemistry and Physics 82 (2003) 663-671",synthesized via the Pecchini method 
+Li2MnBr4,1.7798,-1.235167979,1.712916351,-0.066883649,"Lutz, H.D.; Cockcroft, J.K.; Kuske, P.; Schneider, M. Polymorphism of the fast ionic conductor Li2 Mn Br4 - Neutron diffraction and differential scanning calorimetry Materials Research Bulletin 25 (1990) 451-456",LiBr + MnBr2 in sealed quartz ampule at 1100 C
+Li3V2P3O12,1.9207,-2.739646465,1.052461498,-0.868238502,www.dx.doi.org/10.1107/S1600536813001499,V2O5 + LiOH-H2O + NH4H2PO4 + C at 800 C for 24 h
+LiCoO2,0.6623,-1.782250924,1.099431039,0.437131039,www.dx.doi.org/10.1021/cg201238n,CoO + Li2CO3
+LiCuO,1.4376,-1.439419499,0.946167006,-0.491432994,"Fischer, D.; Glaum, H.; Carl, W.; Hoppe, R. Zur Struktur der K Ag O-Verwandschaft. Neubestimmung an A Ag O= A4 (Ag4 O4) (A= Na-Rb) mit einer Bemerkung zu Cs Cu O Zeitschrift fuer Anorganische und Allgemeine Chemie 585 (1990) 75-81",Li2O + Cu2O at 1073 K for 6 h under in sealed quartz ampule
+LiMnP2O7,1.3147,-2.592432293,0.828797572,-0.485902428,"Ivashkevich, L.S.; Selevich, K.A.; Lesnikovich, A.I.; Selevich, A.F.; Lyakhov, A.S. Two isostructural manganese(III) diphosphates, acid alpha-Mn H P2 O7 and double Mn Li P2 O7: crystal structure determination from x-ray powder diffraction data Zeitschrift fuer Kristallographie (149,1979-) 221 (2006) 115-121",MnHP2O7 (Mn(III)PO4 + phosphoric acid at 250 C) + LiNO3 at 300 C
+LiMo3P3O16,1.6483,-2.410078016,1.218699744,-0.429600256,www.dx.doi.org/10.1016/0025-5408(95)00023-2,"Li2CO3 + H(NH4)2PO4 + MoO3 at 673 K for 6 h, + Mo in sealed ampule at 953 K for 15 h"
+LiNb6Cl19,0.7273,-1.76461494,1.164533952,0.437233952,"Stroebele, M.; Meyer, H.J. Die Leiterstruktur von Li Nb6 Cl19 Zeitschrift fuer Anorganische und Allgemeine Chemie 627 (2001) 2005-2010",Nb + NbCl5 + Li2C2 in sealed ampule at 530 C for 15 h
+LiV3Te6O12,1.8778,-2.081254499,0.898641364,-0.979158636,www.dx.doi.org/10.1107/S010827010702954X,V2O5 + TeO2 + LiOH hydrothermally at 483 K for 4 d
+LiVO2,1.7865,-2.485375551,1.435240809,-0.351259191,"Cardoso, L.P.; Chamberland, B.L.; Hewston, T.A.; Cox, D.E. Structural studies of Li0.7 V O2 in the temperature range 20-300 C Journal of Solid State Chemistry 72 (1988) 234-243","Li2CO3+V2O5 under Ar/H2 at 625 C for 14 h, 750 C for 4 h"
+MgFe2O4,1.7999,-2.252172591,0.955065457,-0.844834543,www.dx.doi.org/10.2138/am.2005.1559,MgO and Fe2O3 in air at 900 C
+MgSb2O6,1.0375,-2.245855561,0.878295569,-0.159204431,"Bystrom, A.; Hok, B.; Mason, B. The crystal structure of zinc metantimonate and similar compounds Arkiv for Kemi, Mineralogi och Geologi 15B4 (1942) 1-8",MgO + Sb2O3 at 1000 C for 48 h ambient
+MgB9N,1.6753,-0.425956637,1.333003984,-0.342296016,www.dx.doi.org/10.1107/S0108270102009253,"Mg + B in a BN crucible in a W container at 1873 K under Ar for 1 h, then under vacuum for 15 min at 1023 K"
+MgMoN2,0.7411,-1.055725089,1.214216515,0.473116515,www.dx.doi.org/10.1039/c2jm30844d,NaN3 + Mo + Mg in autoclave at 700 C for 10 h
+MgTe2,1.1162,-0.57922888,0.953049981,-0.163150019,"Yanagisawa, S.; Tashiro, M.; Anzai, S. Crystal Structure of Magnesium Ditelluride Journal of Inorganic and Nuclear Chemistry 31 (1969) 943-946","Mg + Te in sealed ampule at 670 K for 15 h, 770 K for 15 h"
+MnGa2S4,1.1795,-1.045559684,0.929764401,-0.249735599,"Rimet, R.; Roques, R.; Buder, R.; Schlenker, C.; Zanchetta, J.V. New antiferromagnetic properties of manganese gallium sulfides Mn Ga2 S4-alpha and Mn Ga2 S4-beta Solid State Communications 37 (1981) 693-697","Mn+Ga+S in sealed ampule at 600 C for 2 d, 900 C for 2 d and quenched"
+MnNi6O8,1.3056,-1.102145849,1.099562572,-0.206037428,www.dx.doi.org/10.1016/S0038-1098(98)00457-8,NI-acetate + Mn acetate + acetic acid + oxalic acid dried at 340 K then fired at 873 K for 3 h
+MnP3O9,1.1659,-2.541039529,1.248032491,0.082132491,"Bagieu-Beucher, M. Structure cristalline du polyphosphate de manganese trivalent Mn (P O3)3 Acta Crystallographica B (24,1968-38,1982) 34 (1978) 1443-1446",Decompose Mn2P4O12 at 700 C
+Mn3V2O8,1.9247,-2.298695994,0.865015868,-1.059684132,"Xiandong Wang; Zhenquan Liu; Andrea Ambrosini; Antoine Maignan; Charlotte L. Stern; Kenneth R. Poeppelmeier; Vinayak P. Dravid Crystal growth, structure, and properties of manganese orthovanadate Mn3(VO4)2 Solid State Sciences 2 (1998) 99-107",MnO + V2O5 + MoO3 in Pt crucible at 1110 C for 1 h
+MnO,1.6823,-2.000399532,1.697261781,0.014961781,www.dx.doi.org/10.1007/s002690050229,can be bought
+MnSb2Pb5O11,1.1327,-1.757772811,1.049087538,-0.083612462,"Abakumov, A.M.; Rozova, M.G.; Chizhov, P.S.; van Tendeloo, G.; Antipov, E.V.; Hadermann, J. Synthesis and crystal structure of the novel Pb5 Sb2 Mn O11 compound Journal of Solid State Chemistry 177 (2004) 2855-2861","4 PbO2 + PbO + MnO2 + Sb2O3 in air at 650 C for 50 h, then 50 h"
+Mo2P2O11,1.9934,-2.32731126,1.706550696,-0.286849304,www.dx.doi.org/10.1021/ic902166j,"Dehydration of MoO2-H2O-PO3OH (MoO3 in 14.5 M H3PO4 at 180 C, then 15.5 M HNO3 added and evaporated) at 923 K for 48 h"
+Mo6PbI14,1.843,-0.43504411,1.4893046,-0.3536954,"Boeschen, S.; Keller, H.L. Darstellung und Kristallstruktur der homologen Reihe PbMo6X14, X = Cl, Br, I Zeitschrift fuer Kristallographie (149,1979-) 200 (1992) 305-315",PbI2 + MoI2 --> still need to access paper
+MoP2O7,1.9979,-2.559728864,1.838964527,-0.158935473,"Leclaire, A; Borel, M M; Grandin, A; Raveau, B Structure of molybdenum (IV) diphosphate Mo P~2~ O~7~ European Journal of Solid State Inorganic Chemistry 25 (1988) 323-327","(NH4)2HPO4 + MoO3 600 K in Pt crucible, then Mo added and sealed quartz ampule to 1373 K for several days"
+MoPO5,1.1382,-2.420276986,1.278950696,0.140750696,www.dx.doi.org/10.1021/cm101429u,MoO3 + H3PO4 in autoclave 453 K for 12 h
+MoS2,1.2042,-1.306307339,1.485819016,0.281619016,www.dx.doi.org/10.1021/ja01659a020,can be made colloidally
+MoSe2,1.1384,-0.670039251,1.262914731,0.124514731,"Towle, L.C.; Oberbeck, V.; Stajdohar, R.E.; Brown, B.E. Molybdenum Diselenide: Rhombohedral High Pressure - High Temperature Polymorph Science 154 (1966) 895-896",Can be made colloidally
+Na2Sn2Se5,1.0178,-0.624397047,1.021072329,0.003272329,www.dx.doi.org/10.1002/(SICI)1521-3749(200004)626:4<863::AID-ZAAC863>3.0.CO;2-N,Na2Se + Sn + Se at 450 C in sealed quartz ampule
+Na2TeO4,1.8126,-1.831209899,2.09353179,0.28093179,"Daniel, F.; Maurin, M.; Moret, J.; Philippot, E. Etude structurale d'un nouveau tellurate alcalin: Na2 Te O4 . Evolution de la coordination du tellure(VI) et du cation quand on passe du cation lithium au sodium Journal of Solid State Chemistry 22 (1977) 385-391",NaOH + Te(OH)6 in hydrotherman furnace at 580 C
+Na3BP2,1.8442,-0.339583915,1.390800153,-0.453399847,"Somer, M.; Peters, K.; Popp, T.; von Schnering, H.G. Crystal structure of sodium diphosphidoborate Zeitschrift fuer Kristallographie (149,1979-) 193 (1990) 281-282",Na3P + BP in sealed Nb/steel ampule at 1000 K
+Na3BiO4,0.9646,-1.743498453,1.350123915,0.385523915,"Schwedes, B.; Hoppe, R. Zur Kenntnis von Na3 Bi O4 und Na3 Sb O4 Zeitschrift fuer Anorganische und Allgemeine Chemie 393 (1972) 136-148","Na2O2 + Bi2O3 at 600 C for 12 h (or 700 C for 30h, it's in GermanÉ)"
+Na3Fe5O9,1.723,-1.864866464,1.637470912,-0.085529088,"Gomers, C.; Rooymans, C.J.M.; de Graaff, R.A.G. The preparation, crystal structure and magnetic properties of Na3 Fe5 O9 Acta Crystallographica (1,1948-23,1967) 22 (1967) 766-771",Na2CO3 + Fe2O3 at 1100 C
+Na3Mn4Te2O12,1.4484,-1.930611448,1.862890673,0.414490673,www.dx.doi.org/10.1107/S0108270197020076,MnO2 + Te(OH)6 in 1 M NaOH in autoclave at 648 K for 5 days
+Na3WN3,1.7679,-0.626389997,0.897056389,-0.870843611,"Jacobs, H.; Niewa, R. Synthesis and crystal structure of a sodium nitrido tungstate (VI), Na3WN3 European Journal of Solid State and Inorganic Chemistry 31 (1994) 105-113","W2N (WO3 + NH3 at 700 C for 11h) + Na under NH3 flow at 350 C, then 500 C for 8 h, then 600 C for 8 hthen 500 C for 8 h"
+Na4Fe2O5,1.9196,-1.808412125,0.919630882,-0.999969118,"Brachtel, G.; Hoppe, R. Zur Kenntnis von Na4 Fe2 O5 Zeitschrift fuer Anorganische und Allgemeine Chemie 446 (1978) 97-104",Na2O2 + Fe2O3 at 600 C for 6 d
+Na4VP2O9,1.7556,-2.616152535,1.10173106,-0.65386894,www.dx.doi.org/10.1021/cm0351543,Na4P2O7 + VO2 in sealed ampule at 700 C for 3 d
+Na5CoHO4,1.6838,-1.541933566,1.550183619,-0.133616381,"Amann, P.; Moeller, A. Ein Natrium-Oxocobaltat(II)-Hydroxid: Na5 (Co O3) O H = Na10 (Co O3) ((C O3) (O H)2) Zeitschrift fuer Anorganische und Allgemeine Chemie 628 (2002) 1756-1760",Na2O + CdO + NaOH + Co under Ar at 600 C for 21 d
+Na5CuH2O4,1.4867,-1.496071108,1.91914499,0.43244499,"Amann, P.; Moeller, A. Synthesis, crystal structure, and reactivity of Na5 (Cu O2) (O H)2 Zeitschrift fuer Anorganische und Allgemeine Chemie 627 (2001) 2571-2575",Na2O (Na + NaOH) + NaOH + Cu2O in Ni/Ag container sealed ampule at 600 C for 5 d
+Na5NiO4,1.9118,-1.392366896,0.880465271,-1.031334729,"Zentgraf, H.; Hoppe, R. Na5 Ni O4, das erste Oxoniccolat(III) mit Inselstruktur Zeitschrift fuer Anorganische und Allgemeine Chemie 462 (1980) 61-70",Na2O + NaNiO2 at 550 C for 2 d
+Na6MnS4,1.4025,-1.259175101,1.53824534,0.13574534,"Bronger, W.; Boehmer, M.; Mueller, P. Magnetic properties of the ternary sulfide Na6 Mn S4 Journal of Alloys Compd. 338 (2002) 116-120",Na2CO3 + Mn + S at 1200 K in H2 stream
+Na6MnSe4,1.1356,-0.983992881,1.199674089,0.064074089,"Bronger, W.; Balk-Hardtdegen, H. Darstellung, Struktur und magnetisches Verhalten von Alkalimetallmanganchalkogeniden A6 Mn X4 mit A = Na oder K und X = S, Se oder Te Zeitschrift fuer Anorganische und Allgemeine Chemie 574 (1989) 89-98",NaCO3 + MnCO3/Mn + Se under H2 flow 1200 K
+Na6MnTe4,1.3409,-0.804843269,1.04943316,-0.29146684,"Bronger, W.; Balk-Hardtdegen, H. Darstellung, Struktur und magnetisches Verhalten von Alkalimetallmanganchalkogeniden A6 Mn X4 mit A = Na oder K und X = S, Se oder Te Zeitschrift fuer Anorganische und Allgemeine Chemie 574 (1989) 89-98",Na2CO3 + Mn + Te under H2 at 1070 K
+NaBiO3,1.0879,-1.602838166,1.167855816,0.079955816,"Kumada, N.; Kinomura, N.; Sleight, A.W. Neutron powder diffraction refinement of ilmenite-type bismuth oxides: A Bi O3 (A = Na, Ag) Materials Research Bulletin 35 (2000) 2397-2402",Purchased
+NaFeSe2O8,1.8817,-1.47901469,1.243966725,-0.637733275,www.dx.doi.org/10.1007/BF01163100,Na2SeO4 + FeC2O4-2H2O + H2SeO4 at 500 K for 1 week hydrothermally
+NaFe3H6S2O14,1.8908,-1.830216131,1.452279694,-0.438520306,www.dx.doi.org/10.2138/am.2008.2731,"Fe2(SO4)3-5H2O + Na2SO4 + H2O at 140 C for 48 h hydrothermally, 140 C post-synthesis heat"
+NaFe7P6O24,0.9114,-2.073766369,0.862783262,-0.048616738,"Belokoneva, E.L.; Dimitrova, O.V.; Ruchkina, E.A. Synthesis and crystal structure of new phosphate Na Fe4 Fe3 (P O4)6 Kristallografiya 48 (2003) 54-58",Na3PO4 + FeCl3 + water + boric anhydride in autoclave at 280 C for 7 d
+NaMnO2,1.2564,-2.033420742,1.143074089,-0.113325911,www.dx.doi.org/10.1021/cm5011696,Na2CO3 + MnO
+NaMo3P3O16,1.7418,-2.414851193,1.234482484,-0.507317516,www.dx.doi.org/10.1016/0022-4596(91)90386-V,"Na2CO3 + H(NH4)2PO4 + MoO3 at 673 K in air, + Mo in sealed ampule at 973 K for 2 d"
+NaMo6Br13,1.9979,-0.766168486,1.048962766,-0.948937234,"Wang, P.; Xu, W.; Zheng, Y.-Q. New catenary octahedro-hexamolybdenum cluster bromides: crystal structures of A Mo6 Br13 with A = Na, Ag Solid State Sciences 5 (2003) 573-578",MoBr2 + NaBr in sealed ampule at 700 C
+NaNbO2,1.3782,-2.539765814,1.29468917,-0.08351083,"Roth, H.F.; Meyer, G.; Kaindl, G.; Hu, Z. Synthesis, structure, and X-ray absorption spectra of Lix Nb O2 and Nax Nb O3 (x<1) Zeitschrift fuer Anorganische und Allgemeine Chemie 619 (1993) 1369-1373",Na2O + NbO + NbO2 at 700 C for 3 d
+NbP2S8,1.2752,-0.922701883,1.079593951,-0.195606049,"Grenouilleau, P.; Brec, R.; Evain, M.; Rouxel, J. Synthesis and structure of the new layered phase P2 Nb S8 Revue de Chimie Minerale 20 (1983) 628-635","Nb+P+S in sealed ampule at 650 C for ""several days"""
+Nb2Co4O9,1.7926,-2.140547134,0.847326656,-0.945273344,www.dx.doi.org/10.1016/0022-3697(61)90103-2,N2O5 + CoO heated to 1300 C for 10 h
+Nb2PS10,1.3727,-1.089431794,1.109432875,-0.263267125,"Brec, Raymond; Grenouilleau, Philippe; Evain, Michel; Rouxel, Jean PNb2S10 a new two-dimensional sulfide. Synthesis and structural characterization Revue de Chimie Minerale 20 (1983) 295-305",Nb + P + S at 600 C for 8 days
+Nb2SnO6,1.7399,-2.761521169,0.900531656,-0.839368344,"Ercit, T. S.; Cerny, P. The crystal structure of foordite The Canadian Mineralogist 26 (1988) 899-903","No ref found, but looks easy: Nb2O5 + SnO"
+Nb3Sb2Te5,0.8441,-0.391308045,0.85645589,0.01235589,"Jensen, P.; Kjekshus, A. The crystal structure of Nb3 Sb2 Te5 Journal of the Less-Common Metals 13 (1967) 357-359",Nb + Sb + Te in sealed quartz ampule at 600 C for 2 weeks
+Nb9VO25,1.9967,-2.986485551,2.34850534,0.35180534,www.dx.doi.org/10.1107/S1600536814007831,"Nb2O5 + V2O5 + Na2CO3 at 623 K for 24 h, 1198 K for x hours"
+NbBr5,1.5583,-0.875997429,1.291225448,-0.267074552,"Tragl, Sonja; Meyer, Hans-JÌ_rgen Crystal structure of niobium pentabromide, NbBr~5~, a triclinic phase Zeitschrift fÌ_r Kristallographie - New Crystal Structures 222(3) (2007) 161-162",can be bought
+NbCoO4,1.6468,-2.291494724,0.815499067,-0.831300933,www.dx.doi.org/10.1002/zaac.19804710109,Nb2O5 + CoC2O4-2H2O at 1450 C for 8 h
+NbCu3S4,1.6574,-0.929894033,1.593235156,-0.064164844,www.dx.doi.org/10.1107/S1600536805022397,Cu+Nb+S+I via CVT with temperatuere gradient of 1123 K - 1053 K for 120 h
+Ni3TeO6,1.6892,-1.215263878,1.231050786,-0.458149214,www.dx.doi.org/10.1107/S1600536806043042,NiO + TeO2 + NiCl2  via CVT (923 K - 1023 K for 5 weeks) in sealed ampule
+NiH2S4N4,0.9639,-0.250359875,1.432987747,0.469087747,"Mayer, K.F.; Weiss, J. Bis(dithionitrito-S-amido)nickel - A new (beta-) modification Acta Crystallographica B (24,1968-38,1982) 34 (1978) 1999-2000","NiCl2-6H2O + S4N4 refluxed in methanol, dried and washed with cyclohexane and acetone"
+PWO5,1.8469,-2.469055182,1.887879626,0.040979626,"Wang, S.-L.; Wang, C.-C.; Lii, K.-H. Crystal Structure of W P O5, the Second Member of the Monophosphate Tungsten Bronze Series (W O3)2m (P O2)4 Journal of Solid State Chemistry 82 (1989) 298-302",WO3 + W + P2O5 + SiO2 in sealed quartz tube at 1250 C for several days
+Pb5S2I6,1.8132,-0.712302154,2.301438057,0.488238057,"Krebs, B. Strukturchemie von Chalkogenid-halogeniden: Die Kristallstrukturen von Pb4 Se Br6 und Pb5 S2 J6 Zeitschrift fuer Naturforschung, Teil B. Anorganische Chemie, Organische Chemie (2,1947-32,1977) 25 (1970) 223-224",Pb + S + I at 600 C
+PbO,1.4695,-1.488116003,1.71747994,0.24797994,www.dx.doi.org/10.1021/ja01676a015,can be bought
+Rb2MnCl4,1.2907,-1.947595898,1.359818152,0.069118152,"Goodyear, J.; Ali, E.M.; Steigmann, G.A. Rubidium tetrachloromanganate Acta Crystallographica B (24,1968-38,1982) 33 (1977) 2932-2933","RbCl + MnCl2 in sealed ampule until molten, then cooled slowly"
+Rb2NaMnO4,1.8116,-1.829015019,1.027882264,-0.783717736,www.dx.doi.org/10.1107/S1600536805020453,Na2O + Rb2O + Mn + CdO in Ag crucibles sealed in ampule heated to 523 K for 14 d
+Rb3BP2,1.5884,-0.384274247,1.189012739,-0.399387261,"von Schnering, H.G.; Carrillo-Cabrera, W.; Peters, K.; Somer, M.; Peters, E.M. Crystal structures of trirubidium diarsenidoborate, Rb3 B As2 and trirubidium diphosphidoborate, Rb3 B P2 Zeitschrift fuer Kristallographie (149,1979-) 210 (1995) 779-780",BP + RbP + Rb in sealed Nb ampule at 1000 K
+Rb3Zr2P5S18,1.9753,-1.215194082,1.138474393,-0.836825607,"Gutzmann, A.; Naether, C.; Bensch, W. Synthesis, crystal structure and optical properties of A3 Zr2 P5 S18 (A = Rb, Cs): the first quaternary zirconium thiophosphates Solid State Sciences 6 (2004) 205-211",Rb2S3 (Rb+S in liquid NH3) + ZrS2 (Zr + S at 753 K in sealed ampule) + P2S5 + S 873 K for 4 d
+Rb4Cu5Cl9,1.7887,-1.411205098,1.926622225,0.137922225,"Sishen, X.; Geller, S. Crystal structure of Rb4 Cu5 Cl9 Journal of Solid State Chemistry 63 (1986) 326-335","RbCl + CuCl at 220 C, then 160 C for 96 h"
+Rb4Hf3S14,1.9401,-1.562907275,1.571604688,-0.368495312,www.dx.doi.org/10.1021/ic0011260,Rb2S3 (Rb + S in liquid NH3) + Hf + S in sealed tube at 873 K for 4 d
+Rb4P21I,1.4267,-0.315214656,1.83425695,0.40755695,"Hoenle, W.; von Schnering, H.G.; Peters, K.; Schmettow, W.; Chang Jenhui The henicosaphosphide iodides of potassium and rubidium, K4 P21 I and Rb4 P21 I Zeitschrift fuer Anorganische und Allgemeine Chemie 630 (2004) 1858-1862",Rb + P + I in sealed ampule at 373 K for 3 d
+Rb4Ta2S11,1.7127,-1.369853275,0.887232215,-0.825467785,www.dx.doi.org/10.1107/S0108270197018404,Rb2S3 (Rb + S in liquid NH3) + Ta + S in sealed ampule at 773 K for 6 d
+Rb4Ti3S14,1.2236,-1.451794873,1.144240026,-0.079359974,www.dx.doi.org/10.1021/ic0011260,Ti + S + Rb2S3 flux (Rb + S in NH3) heated to 873 K for 4 d
+Rb4Zr3Se14,1.4609,-1.037402694,1.109759483,-0.351140517,www.dx.doi.org/10.1021/ic0011260,Zr + Se + Rb2Se3 (Rb + Se in liquid ammonia) in sealed ampule  at 873 K for 4 d
+Rb6Ta4S25,1.4821,-1.265613116,0.878629363,-0.603470637,"Petra Stoll; Christian Nather; Inke Jeb; Wolfgang Bensch Synthesis, crystal structure and optical properties of the new tantalum polysulfide Rb6Ta4S25 and its thermal degradation to Rb6Ta4S22 Solid State Sciences 2 (2000) 563-568",Rb2S3 (Rb + S in liquid ammonia under Ar) + Ta + S in sealed ampule at 723 K for 5 d
+RbCuO2,0.9136,-1.366964483,0.957735002,0.044135002,"Hestermann, K.; Hoppe, R. Die Kristallstruktur von K Cu O2, Rb Cu O2 und Cs Cu O2 Zeitschrift fuer Anorganische und Allgemeine Chemie 367 (1969) 249-260",RbO2 + CuO under flowing oxygen at 400 C for 6 d
+RbGeBiS4,1.9799,-1.020476089,1.155723508,-0.824176492,www.dx.doi.org/10.1021/ic020429m,Rb2S3 (Rb + S in liquid NH3) + Ge + Bi + S in sealed ampule at 893 Kk for 84 h
+Sb2MoO6,1.3984,-1.905157527,1.117024764,-0.281375236,www.dx.doi.org/10.1107/S0108270197006239,Sb2O3 + MoO3 in sealed ampule at 763 K for 24 h
+Sb2O5,0.8138,-1.766578291,1.264359682,0.450559682,www.dx.doi.org/10.1107/S056774087900409X,can be purchased
+Sb2S3,1.2828,-0.65299885,1.187341099,-0.095458901,www.dx.doi.org/10.1007/s00269-001-0227-1,can be purchased
+Sb2Se3,0.7564,-0.260578215,0.894032029,0.137632029,www.dx.doi.org/10.1007/s00269-005-0470-y,SbCl3+Na citrate+ammonia+sodium selenosulfate+water
+Sb2WO6,1.4712,-1.970375969,1.319428526,-0.151771474,www.dx.doi.org/10.1107/S0108768196003813,Sb2O3 + WO3 in sealed ampule at 1073 K for 24 h
+SbCl5,1.8233,-1.140537478,2.272885864,0.449585864,"Haupt, S.; Seppelt, K. Solid state structures of As Cl5 and Sb Cl5 Zeitschrift fuer Anorganische und Allgemeine Chemie 628 (2002) 729-734",can be bought
+SbPb2S2I3,1.7238,-0.669564039,1.407329184,-0.316470816,"Doussier, C.; Moelo, Y.; Meerschaut, A.; Leone, P.; Evain, M. Crystal structure of Pb2 Sb S2 I3, and re-examination of the crystal chemistry within the group of (Pb/Sn/Sb) chalcogeno-iodides Solid State Sciences 9 (2007) 792-803",PbS + Sb2S3 + I in CVT with sealed quartz tube at 600 C for 12 d
+SiP,1.7395,-0.156310133,1.60733631,-0.13216369,www.dx.doi.org/10.1039/C7CE01676J,"Si + P + Sn in 500 C in sealed ampule for 36 h, then 1150 C for 10 h"
+SiP2,1.4174,-0.12971075,1.126408868,-0.290991132,"Chattopadhyay, T.K.; von Schnering, H.G. Electron density distribution in Si P2 with the pyrite structure Studies in Inorganic Chemistry 3 (1983) 761-764",Si + P in sealed quartz tube at 1200 C/600 C
+Sn2OF5,1.9099,-2.656906676,2.243037009,0.333137009,"Chang, Jen-Hui; KÌ¦hler, JÌ_rgen Crystal structure of tin(II)dioxodecafluorostannate(IV), Sn~4~O~2~F~10~ Zeitschrift fÌ_r Kristallographie - New Crystal Structures 214(2) (1999) 147-148",byproduct of SnF2 + VF4 in Pt crucible at 520 K
+SnMo5O8,0.9695,-1.607557786,1.118701849,0.149201849,www.dx.doi.org/10.1107/S0108270189010759,SnO2+2MoO3+3Mo in sealed Mo crucible at 2030K for 1 h
+SnS,0.9055,-0.775495515,1.184403507,0.278903507,"Hofmann, W Ergebnisse der Strukturbestimmung komplexer Sulfide. I: SnS und PbSnS2 Zeitschrift fuer Kristallographie, Kristallgeometrie, Kristallphysik, Kristallchemie (-144,1977) 92 (1935) 161-173",Can be made colloidally
+SnS2,1.5586,-0.821644999,1.839136028,0.280536028,www.dx.doi.org/10.1039/c5dt04532k,can be made colloidally
+SrCu2O2,1.8083,-1.672210527,1.159475914,-0.648824086,www.dx.doi.org/10.1002/zaac.19703790202,SrO + Cu2O at 800 C
+Sr17Ta10S42,1.7864,-1.962844252,1.257965827,-0.528434173,"Onoda, M.; Saeki, M.; Yajima, Y. Preparation and crystal structure model of a new strontium tantalumsulfide: Sr17 Ta10 S42 Journal of Solid State Chemistry 105 (1993) 354-362",SrCO3 + Ta2O5 + S in sealed ampule at 700 C for 48 h
+Sr2Fe2S2OF2,1.904,-2.531533802,1.548250141,-0.355749859,www.dx.doi.org/10.1021/ja711139g,SrF2 + SrO + Fe + S in sealed ampule at 800 C for 12 h
+Sr2FeBrO3,1.346,-2.5518497,0.961310377,-0.384689623,"Hector, A.L.; Hutchings, J.; Weller, M.T.; Thomas, M.F.; Needs, R.L. Structural and Mossbauer study of Sr2 Fe O3 X (X = F, Cl, Br) and the magnetic structure of Sr2 Fe O3 F Journal of Materials Chemistry 11 (2001) 527-532",Fe2O3 + SrCO3 + SrBr2 at 850 C in air for 4 d
+Sr2FeClO3,1.1226,-2.710838351,0.910401286,-0.212198714,"Hector, A.L.; Thomas, M.F.; Hutchings, J.; Weller, M.T.; Needs, R.L. Structural and Mossbauer study of Sr2 Fe O3 X (X = F, Cl, Br) and the magnetic structure of Sr2 Fe O3 F Journal of Materials Chemistry 11 (2001) 527-532",Fe2O3 + SrCO3 + SrCl2 in air at 850 C for 4 days
+Sr2FeO3F,1.2045,-2.964463274,1.108855272,-0.095644728,www.dx.doi.org/10.1021/cg500484e,SrF2 + SrO2 + Fe at 3 Gpa and 1300 C
+Sr2PbO4,1.3966,-2.488450058,0.955093063,-0.441506937,"Troemel, M. Zur Struktur der Verbindungen vom Sr2 Pb O4-Typ Naturwissenschaften 52 (1965) 492-493",PbO + SrCO3 at 1073 K in air
+Sr2SnSe3F2,1.4479,-2.228876194,0.850741527,-0.597158473,www.dx.doi.org/10.1021/ic051592v,SrF2 + SrS + SnSe + Se in sealed ampule at 700 C for 12 h
+Sr4CN4,1.2186,-0.857356323,1.485122893,0.266522893,www.dx.doi.org/10.1107/S1600536805030850,Sr + NaN3 + Al + Na in sealed Ni tube at 1073 K for 4 d
+Sr4Mn3O10,1.303,-2.594308911,1.583999534,0.280999534,"Nicolas Floros; Maryvonne Hervieu; Gustav van Tendeloo; Claude Michel; Antoine Maignan; Bernard Raveau The layered manganate Sr4-xBaxMn3O10: synthesis, structural and magnetic properties Solid State Sciences 2 (1998) 1-9",SrO + Sr(NO3)2 + Mn2O3 in sealed ampule at 1100 C for 12 h
+Sr6Sb6S17,1.7409,-1.437891997,1.147044907,-0.593855093,"Choi, K.-S.; Kanatzidis, M.G. Sulfosalts with alkaline earth metals. Centrosymmetric vs acentric interplay in Ba3 Sb4.66 S10 and Ba2.62 Pb1.38 Sb4 S10 based on the Ba/Pb/Sb ratio. Phases related to arsenosulfide minerals of the rathite group and novel polysulfide Sr6 Sb6 S17 Inorganic Chemistry 39 (2000) 5655-5662",Sr + Sb + S in sealed ampule at 800 C for 5 d
+SrCuSF,1.5103,-2.354700351,1.222954799,-0.287345201,"Motomitsu, E.; Yanagi, H.; Kamiya, T.; Hirano, M.; Hosono, H. Synthesis, structure and physical properties of layered semiconductors M Cu F Ch (M=Sr, Eu, Ch=S, Se) Journal of Solid State Chemistry 179 (2006) 1668-1673",SrF2  + SrS (SrSO4 under H2 at 1100 C for 15 h) + Cu2S in sealed ampule 500 C for 6 h
+SrCuSeF,1.1989,-2.153966889,1.000822606,-0.198077394,"Motomitsu, E.; Yanagi, H.; Hosono, H.; Kamiya, T.; Hirano, M. Synthesis, structure and physical properties of layered semiconductors M Cu F Ch (M=Sr, Eu, Ch=S, Se) Journal of Solid State Chemistry 179 (2006) 1668-1673",SrSe2+SrF+Cu2Se in sealed ampule at 500 C for 6 h
+Ta4Cu2O11,1.2731,-2.839084175,1.42009675,0.14699675,www.dx.doi.org/10.1021/cg500987c,CuCl + Ta2O5 in CuCl flux heated to 665 C for 1 h
+Ta4P4S29,1.0363,-0.968156682,1.315635585,0.279335585,"Evain, M.; Queignec, M.; Rouxel, J.; Brec, R. Ta4 P4 S29: A new tunnel structure with inserted polymeric sulfur Journal of Solid State Chemistry 56 (1985) 148-157",Ta+P+S in quartz tube for 10 d at 500 C
+TaCl4,1.2222,-1.776897522,0.901404259,-0.320795741,"Bajan, B.; Meyer, H.J. Crystal structure of tantalum tetrachloride, Ta Cl4 Zeitschrift fuer Kristallographie (149,1979-) 211 (1996) 818-818",can be purchased
+Te2Mo,0.9657,-0.270561215,0.94142504,-0.02427496,"Wyckoff, R. W. G. Second edition. Interscience Publishers, New York, New York Crystal Structures 1 (1963) 280-281",can be synthesized colloidally
+TiPbO3,1.8161,-2.747830816,2.120016095,0.303916095,www.dx.doi.org/10.1021/j150381a009,PbO + TiO2 at 900 C
+V2BP3O12,1.9571,-2.732830437,2.155391033,0.198291033,www.dx.doi.org/10.1002/zaac.200400102,BPO4 + VO2 at 1050 C
+V2NiTe2O10,1.882,-1.826781433,1.347508203,-0.534491797,www.dx.doi.org/10.1107/S0108270109006817,NiO + NiCl2 + V2O5 + TeO2 in sealed ampule at 793 K for 72 h
+V2P2H4O11,1.7057,-2.201434434,1.487718333,-0.217981667,www.dx.doi.org/10.1021/ic00178a002,VO2 + H3PO4 in sealed ampule at 500 C
+V2P2H6PbO14,0.7684,-1.97446659,0.961064735,0.192664735,www.dx.doi.org/10.1021/ic00049a007,V2O3+V2O5+Sr(OH)2-8H2O+H3PO4+H2O at 230 C in autoclave
+V2P2O9,1.6511,-2.590818324,1.265814925,-0.385285075,www.dx.doi.org/10.1107/S0108270101017553,topotactic dehydration in Ar flow at 973 K of VOHPOR-0.5H2O (vanadyl hydrogen phosphate hemihydrate)
+V4Zn3P6O24,1.8885,-2.58677646,1.457573677,-0.430926323,www.dx.doi.org/10.1006/jssc.1995.1112,"Zn(CH3COO)2-2H2O + V2O5 + (NH4)2HPO4 at 893 K for 2 h, sealed ampule at 1223 K for 24 h"
+V5Pb2O12,1.8211,-2.308908633,1.125344551,-0.695755449,"Shpanchenko, R.V.; Chernaya, V.V.; Abakumov, A.M.; Hadermann, J.; Antipov, E.V.; van Tendeloo, G.; Kaul, E.E.; Geibel, C.; Sheptyakov, D.; Balagurov, A.M. Crystal structure and magnetic properties of the novel oxide Pb2 V5 O12 Zeitschrift fuer Anorganische und Allgemeine Chemie 627 (2001) 2143-2150",PbV2O7 (PbO + V2O5 at 600 C for 5 d in air) + V2O3 + V2O5 in sealed ampule at 730 C for 3 d
+V5W3O20,1.1636,-2.265989628,1.397024427,0.233424427,"Israelsson, M.; Kihlborg, L. The crystal structure of monoclinic W3 V5 O20, an OD structure related to R-Nb2 O5 Journal of Solid State Chemistry 1 (1970) 469-477","WO3, V2O5 + V2O3 in sealed ampule at 1100 C"
+VCu3Se4,0.8164,-0.489795291,0.966527577,0.150127577,"Klepp, Kurt O.; Gurtner, Doris Crystal structure of tricopper tetraselenidovanadate(V), Cu~3~VSe~4~ Zeitschrift fÌ_r Kristallographie - New Crystal Structures 215(1) (2000) 4-4",V + Cu + Se in sealed quartz tube at 600 C for 6 weeks
+VO,0.7832,-2.083263678,1.161590403,0.378390403,"Wyckoff, R. W. G. Second edition. Interscience Publishers, New York, New York rocksalt structure Crystal Structures 1 (1963) 85-237",can be purchased 
+VP2O7,1.3194,-2.64320757,1.38033433,0.06093433,"Rousse, G.; Wurm, C.; Rodriguez-Carvajal, J.; Morcrette, M.; Gaubicher, J.; Masquelier, C. Crystal structure of a new vanadium(IV) diphosphate: V P2 O7, prepared by lithium extraction from Li V P2 O7 International Journal of Inorganic Materials 3 (2001) 881-887",Li extraction from LiVP2O7 (LiVO3+VO2+V+P2O5 in sealed ampule at 800C for 12 h) by mixing with NO2BF4 in CAN for 2 weeks
+VPH5O7,1.8483,-1.90471159,1.783983636,-0.064316364,www.dx.doi.org/10.1016/0022-4596(89)90262-4,V2O5 + H3PO4 + HI in acetone/water to reflux for 50 h
+VPO4,1.7687,-2.708096988,1.208082883,-0.560617117,"Glaum, R.; Gruehn, R. Beitraege zum thermischen Verhalten wasserfreier Phosphate: VI. Einkristallstrukturverfeinerung der Metall(III)-orthophosphate TiPO4 und VPO4 Zeitschrift fuer Kristallographie (149,1979-) 198 (1992) 41-47",can be made via sol gel
+VSO5,1.4932,-2.206509619,1.500713355,0.007513355,www.dx.doi.org/10.2113/gscanmin.45.4.921,VSO5-5H2O heated to 330 C for 1 h
+VTeO4,1.5001,-2.013756075,1.024489651,-0.475610349,"Meunier, G.; Darriet, J.; Galy, J. L'oxyde double Te V O4 I. Synthese et polymorphisme, structure cristalline de alpha-Te V O4 Journal of Solid State Chemistry 5 (1972) 314-320",TeO2 + VO2 in sealed ampule at 600 C for 12 h
+WCl6,1.7484,-1.361579623,1.590747593,-0.157652407,"Ketelaar, J.A.A.; van Oosterhout, G.W. Die Krystallstruktur des Wolframhexachlorids Recueil des Travaux Chimiques des Pays-Bas et de la Belgique 62 (1943) 197-200",can be bought
+WO3,1.3331,-2.184222238,1.127005055,-0.206094945,www.dx.doi.org/10.1016/0022-4596(79)90199-3,can be purchased 
+WS2,1.5625,-1.263901368,1.883394122,0.320894122,www.dx.doi.org/10.1016/0022-4596(87)90057-0,can be made via thin films
+WSe2,1.4465,-0.559726117,1.627594214,0.181094214,www.dx.doi.org/10.1016/0022-4596(87)90057-0,Can be made colloidally
+YCuS2,1.5967,-1.707736533,1.207463691,-0.389236309,"Lauxmann, P.; Schleid, T. Cu Y S2 : ein ternaeres Kupfer(I) - Yttrium(III) - Sulfid mit Ketten (1 infty)((Cu (S1)3/3 (S2)1/1)(3-)) cis-kantenverknuepfter (Cu S4)(7-) - Tetraeder Zeitschrift fuer Anorganische und Allgemeine Chemie 626 (2000) 1608-1612",Y + Cu + S in sealed ampule at 1420 K for 4 h
+ZnCo2O4,1.9447,-1.541369209,1.069803981,-0.874896019,"Wyckoff, R. W. G. Page 292 from the second edition of Structure of Crystals by Wyckoff R W G. Published by The Chemical Catalog Company, INC, New York in 1931 & http://jcrystal.com/steffenweber/gallery/StructureTypes/st4.html The second edition of Structure of Crystals  (1931) 292-292",ZnO + Co2O3
+ZnFe2O4,1.6686,-1.892195718,1.432708159,-0.235891841,www.dx.doi.org/10.1127/ejm/4/3/0571,"ZnO + Fe2O3 at 800 C, also could be made via flux"
+ZnSb2O6,0.5422,-1.901114965,0.871173887,0.328973887,www.dx.doi.org/10.1524/zkri.1938.98.1.185,Zn-nitrate + Sb2O3 at 850 C
+ZnGeP2,1.1667,-0.210394122,1.185869873,0.019169873,"Pfister, H. Kristallstruktur von ternaeren Verbindungen der Art A(II) B(IV) C(III)2 Acta Crystallographica (1,1948-23,1967) 11 (1958) 221-224",Zn+Ge+P in Bi flux in sealed ampule
+ZnP2,1.4617,-0.249039118,0.857776739,-0.603923261,"White, J.G. The crystal structure of the tetragonal modification of Zn P2 Acta Crystallographica (1,1948-23,1967) 18 (1965) 217-220",1000 C and 40 kbar
+ZnSe,1.1693,-0.711749569,1.264269126,0.094969126,"Wyckoff, R. W. G. Second edition. Interscience Publishers, New York, New York Note: ZnS structure, sphalerite structure Crystal Structures 1 (1963) 85-237",Can be made colloidally
+ZnTe,1.0787,-0.468432605,1.042071922,-0.036628078,"Zachariasen, W H Die Kristallstruktur der Telluride von Zink,Cadmium und Quecksilber Norsk Geologisk Tidsskrift 8 (1926) 302-306",Could be made colloidally
+TiO2,Didn't pass (band gap too large),,,,,
+Ba2PbO4,,,,,,
+Na3Fe5O9,,,,,,
+ZnFe2O4,,,,,,
+Co4Nb2O9,,,,,,
+MgSb2O6,,,,,,
+BaCaFe4O8,,,,,,
+Ba3MnNb2O9,,,,,,
+Fe2TeO6,,,,,,
+Cu2Ta4O11,,,,,,
+Ba6Mn5O16,,,,,,
+ZnSb2O6,,,,,,
+NaInO2,,,,,,
+BaIn2O4,,,,,,
+SrIn2O4,,,,,,
+CaIn2O4,,,,,,
+PbTiO3,,,,,,
+V5W3O20,,,,,,
+InSb2S4Cl,,,,,,
+K6MnSe4,,,,,,
+ZnGeP2,,,,,,
+NaNbO2,,,,,,
+LaSO,,,,,,
+YCuS2,,,,,,
+CaTaNO2,,,,,,
+NbCu3S4,,,,,,
+MgB9N,,,,,,
+SbPb2S2I3,,,,,,
+K2BaNiN6O12,,,,,,
+V2NiTe2O10,,,,,,
+NbBr5,,,,,,
+V2P2H4O11,,,,,,
+Ba3V2P6H6O24,,,,,,
+La4Se3O4,,,,,,
+CsGeI3,,,,,,
+InSb2S4Br,,,,,,
+Cs4Zr3Se14,,,,,,
+La10Se14O,,,,,,
+Sr17Ta10S42,,,,,,
