@@ -38,7 +38,7 @@ def record_mp_data(chemform, entry_id):
                 f.write(chemform + "    " + entry_id + '\n')
     return
 
-def read_calculation_list(fname="./Data/Final_DMREF_Materials_List.csv",start = 200, end = 202):#297
+def read_calculation_list(fname="./Data/Final_DMREF_Materials_List.csv",start = 200, end = 210):#200
     """
     Obtaion the list of structure to be calculated
 
@@ -118,7 +118,7 @@ def main():
 
         input_generator(mp_structure)
 
-        pbs_submit(2)
+        pbs_submit(1)
 
         os.chdir('./../../')
 
