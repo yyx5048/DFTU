@@ -55,7 +55,7 @@ Cu2WO4,1.3749,-1.450783719,0.884716045,-0.490183955,www.dx.doi.org/10.1016/0022-
 Cu2WS4,1.4454,-0.841077685,1.672786677,0.227386677,"Crossland, C.J.; Evans, J.S.O. Synthesis and characterisation of a new high pressure polymorph of Cu2 W S4 Chemical Communications 2003 (2003) 2292-2293",synthesized colloidally
 Cu3SbS3,0.9983,-0.480705296,1.04806256,0.04976256,www.dx.doi.org/10.1524/zkri.1998.213.4.228,Cu2S + Sb2S3 at 853 K in sealed quartz tube
 Cu4Mo5O17,0.7571,-1.691497871,0.98264855,0.22554855,www.dx.doi.org/10.1002/zaac.19855301102,Cu2O + MoO3 in sealed ampule
-CuI,1.6308,-0.156434982,1.878562727,0.247762727,www.dx.doi.org/10.1021/ja01422a005,can be purchased 
+CuI,1.6308,-0.156434982,1.878562727,0.247762727,www.dx.doi.org/10.1021/ja01422a005,can be purchased
 CuP2,0.8635,-0.116654911,1.202699708,0.339199708,"Olofsson, O. The crystal structures of Cu P2 and Ag P2 with some phase analytical data of the Cu-P and Ag-P systems Acta Chemica Scandinavica (1-27,1973-42,1988) 19 (1965) 229-241",Copper halide + red P +hexadecane --> Schlenk technique
 Fe12PbO19,1.1817,-1.797852117,1.383919157,0.202219157,"AdelskÌ¦ld, V. X-ray studies on Magneto Plumbite PbO åá 6Fe~2~O~3~ and other substances resembling ë_-alumina Na~2~O åá 11Al~2~O~3~ Arkiv fÌ¦r Kemi, Mineralogi och Geologi, A 12(2) (1938) 1-9","PbO+NH4Al(SO4)2+NH4Fe(SO4)2 heated to 400C, then 1000 C for 1 h 2x"
 Fe2CuP4O14,0.7737,-2.390388664,1.171784328,0.398084328,www.dx.doi.org/10.1107/S0108270196000856,CuO + Fe2O3 + (NH4)2HPO4 at 1000 C for 24 h with slow cool
@@ -82,7 +82,7 @@ GeS,1.2376,-0.587086266,1.527818602,0.290218602,"Zachariasen, W H The crystal la
 GeSe,0.8988,-0.220734136,1.214589718,0.315789718,"Wyckoff, R. W. G. Second edition. Interscience Publishers, New York, New York Crystal Structures 1 (1963) 85-237",Can be made colloidally
 GeSe2,1.4381,-0.270024639,1.816067919,0.377967919,"Grzechnik, A.; Mezouar, M.; Stolen, S.; Bakken, E.; Grande, T. Structural transformations in three-dimensional crystalline Ge Se2 at high pressures and high temperatures Journal of Solid State Chemistry 150 (2000) 121-127",Ge + Se at 1173 for 48 h in sealed quartz tube
 GeTe,0.7469,-0.091003237,0.95878581,0.21188581,"Abrikosov, N.Kh.; Danilova-Dobryakova, G.T. An investigation of the structural diagram of Sb2 Te3 - Ge Te Inorganic Materials (USSR) (see: Izv.Akad.Nauk, Neorg.Mater.) 1 (1965) 187-190",Ge + Te in sealed ampule at 1000C for 24
-In2O3,0.9324,-2.027263436,1.177758523,0.245358523,www.dx.doi.org/10.1107/s0365110x66001749,can be purchased 
+In2O3,0.9324,-2.027263436,1.177758523,0.245358523,www.dx.doi.org/10.1107/s0365110x66001749,can be purchased
 In4Bi2S9,1.6314,-0.880930336,0.823534699,-0.807865301,"Chapuis, G.; Gnehm, C.; Kraemer, V. Crystal structure and crystal chemistry of bismuth indium sulphide, Bi2 In4 S9 Acta Crystallographica B (24,1968-38,1982) 28 (1972) 3128-3130",Bi + In + S + I via CVT with temperature gradient of 680-600 C
 InBr,1.2575,-0.690476895,1.039420057,-0.218079943,"Wyckoff, R. W. G. Second edition. Interscience Publishers, New York, New York Crystal Structures 1 (1963) 85-237",In + InBr3
 InI,1.3414,-0.483638315,0.808472384,-0.532927616,"Wyckoff, R. W. G. Second edition. Interscience Publishers, New York, New York Crystal Structures 1 (1963) 85-237",In + I via sublimation 200 C to 100 C gradient
@@ -122,7 +122,7 @@ LaCuSeO,1.5468,-2.208089602,1.316867004,-0.229932996,"Ueda, K.; Hosono, H. Cryst
 LaP3H6O6,1.2893,-1.689906187,1.470442082,0.181142082,www.dx.doi.org/10.1021/ic990187z,La2O3 + 50% H3PO2 + Conc. HCl
 LaSO,1.5229,-3.11907285,1.579698922,0.056798922,www.dx.doi.org/10.1107/S0108270189013375,S+K2S+La2O3 at 923 K under Ar
 LaTiNO2,1.2144,-3.056866092,1.530712142,0.316312142,"Clarke, S.J.; Guinot, B.P.; Michie, C.W.; Rosseinsky, M.J.; Calmont, M.J.C. Oxynitride perovskites: synthesis and structures of La Zr O2 N, Nd Ti O2 N and La Ti O2 N and comparison with oxide perovskites Chemistry of Materials (1,1989-) 14 (2002) 288-294","La2O3+TiO2 in air at 1050 C for 24 h, 1310 in air for 24 h, ammonia at 950 C for 20 h, 6 h, and 6 h"
-LaTiNbBi2O9,1.7236,-2.85784406,1.669650731,-0.053949269,"Nalini, G.; Subbanna, G.N.; Guru Row, T.N. Studies on n=2 Aurivillius phases: structure of the series Bi3-x Lax Ti Nb O9 (0 <= x <= 1) Materials Chemistry and Physics 82 (2003) 663-671",synthesized via the Pecchini method 
+LaTiNbBi2O9,1.7236,-2.85784406,1.669650731,-0.053949269,"Nalini, G.; Subbanna, G.N.; Guru Row, T.N. Studies on n=2 Aurivillius phases: structure of the series Bi3-x Lax Ti Nb O9 (0 <= x <= 1) Materials Chemistry and Physics 82 (2003) 663-671",synthesized via the Pecchini method
 Li2MnBr4,1.7798,-1.235167979,1.712916351,-0.066883649,"Lutz, H.D.; Cockcroft, J.K.; Kuske, P.; Schneider, M. Polymorphism of the fast ionic conductor Li2 Mn Br4 - Neutron diffraction and differential scanning calorimetry Materials Research Bulletin 25 (1990) 451-456",LiBr + MnBr2 in sealed quartz ampule at 1100 C
 Li3V2P3O12,1.9207,-2.739646465,1.052461498,-0.868238502,www.dx.doi.org/10.1107/S1600536813001499,V2O5 + LiOH-H2O + NH4H2PO4 + C at 800 C for 24 h
 LiCoO2,0.6623,-1.782250924,1.099431039,0.437131039,www.dx.doi.org/10.1021/cg201238n,CoO + Li2CO3
@@ -239,14 +239,14 @@ V4Zn3P6O24,1.8885,-2.58677646,1.457573677,-0.430926323,www.dx.doi.org/10.1006/js
 V5Pb2O12,1.8211,-2.308908633,1.125344551,-0.695755449,"Shpanchenko, R.V.; Chernaya, V.V.; Abakumov, A.M.; Hadermann, J.; Antipov, E.V.; van Tendeloo, G.; Kaul, E.E.; Geibel, C.; Sheptyakov, D.; Balagurov, A.M. Crystal structure and magnetic properties of the novel oxide Pb2 V5 O12 Zeitschrift fuer Anorganische und Allgemeine Chemie 627 (2001) 2143-2150",PbV2O7 (PbO + V2O5 at 600 C for 5 d in air) + V2O3 + V2O5 in sealed ampule at 730 C for 3 d
 V5W3O20,1.1636,-2.265989628,1.397024427,0.233424427,"Israelsson, M.; Kihlborg, L. The crystal structure of monoclinic W3 V5 O20, an OD structure related to R-Nb2 O5 Journal of Solid State Chemistry 1 (1970) 469-477","WO3, V2O5 + V2O3 in sealed ampule at 1100 C"
 VCu3Se4,0.8164,-0.489795291,0.966527577,0.150127577,"Klepp, Kurt O.; Gurtner, Doris Crystal structure of tricopper tetraselenidovanadate(V), Cu~3~VSe~4~ Zeitschrift fÌ_r Kristallographie - New Crystal Structures 215(1) (2000) 4-4",V + Cu + Se in sealed quartz tube at 600 C for 6 weeks
-VO,0.7832,-2.083263678,1.161590403,0.378390403,"Wyckoff, R. W. G. Second edition. Interscience Publishers, New York, New York rocksalt structure Crystal Structures 1 (1963) 85-237",can be purchased 
+VO,0.7832,-2.083263678,1.161590403,0.378390403,"Wyckoff, R. W. G. Second edition. Interscience Publishers, New York, New York rocksalt structure Crystal Structures 1 (1963) 85-237",can be purchased
 VP2O7,1.3194,-2.64320757,1.38033433,0.06093433,"Rousse, G.; Wurm, C.; Rodriguez-Carvajal, J.; Morcrette, M.; Gaubicher, J.; Masquelier, C. Crystal structure of a new vanadium(IV) diphosphate: V P2 O7, prepared by lithium extraction from Li V P2 O7 International Journal of Inorganic Materials 3 (2001) 881-887",Li extraction from LiVP2O7 (LiVO3+VO2+V+P2O5 in sealed ampule at 800C for 12 h) by mixing with NO2BF4 in CAN for 2 weeks
 VPH5O7,1.8483,-1.90471159,1.783983636,-0.064316364,www.dx.doi.org/10.1016/0022-4596(89)90262-4,V2O5 + H3PO4 + HI in acetone/water to reflux for 50 h
 VPO4,1.7687,-2.708096988,1.208082883,-0.560617117,"Glaum, R.; Gruehn, R. Beitraege zum thermischen Verhalten wasserfreier Phosphate: VI. Einkristallstrukturverfeinerung der Metall(III)-orthophosphate TiPO4 und VPO4 Zeitschrift fuer Kristallographie (149,1979-) 198 (1992) 41-47",can be made via sol gel
 VSO5,1.4932,-2.206509619,1.500713355,0.007513355,www.dx.doi.org/10.2113/gscanmin.45.4.921,VSO5-5H2O heated to 330 C for 1 h
 VTeO4,1.5001,-2.013756075,1.024489651,-0.475610349,"Meunier, G.; Darriet, J.; Galy, J. L'oxyde double Te V O4 I. Synthese et polymorphisme, structure cristalline de alpha-Te V O4 Journal of Solid State Chemistry 5 (1972) 314-320",TeO2 + VO2 in sealed ampule at 600 C for 12 h
 WCl6,1.7484,-1.361579623,1.590747593,-0.157652407,"Ketelaar, J.A.A.; van Oosterhout, G.W. Die Krystallstruktur des Wolframhexachlorids Recueil des Travaux Chimiques des Pays-Bas et de la Belgique 62 (1943) 197-200",can be bought
-WO3,1.3331,-2.184222238,1.127005055,-0.206094945,www.dx.doi.org/10.1016/0022-4596(79)90199-3,can be purchased 
+WO3,1.3331,-2.184222238,1.127005055,-0.206094945,www.dx.doi.org/10.1016/0022-4596(79)90199-3,can be purchased
 WS2,1.5625,-1.263901368,1.883394122,0.320894122,www.dx.doi.org/10.1016/0022-4596(87)90057-0,can be made via thin films
 WSe2,1.4465,-0.559726117,1.627594214,0.181094214,www.dx.doi.org/10.1016/0022-4596(87)90057-0,Can be made colloidally
 YCuS2,1.5967,-1.707736533,1.207463691,-0.389236309,"Lauxmann, P.; Schleid, T. Cu Y S2 : ein ternaeres Kupfer(I) - Yttrium(III) - Sulfid mit Ketten (1 infty)((Cu (S1)3/3 (S2)1/1)(3-)) cis-kantenverknuepfter (Cu S4)(7-) - Tetraeder Zeitschrift fuer Anorganische und Allgemeine Chemie 626 (2000) 1608-1612",Y + Cu + S in sealed ampule at 1420 K for 4 h
@@ -256,43 +256,43 @@ ZnSb2O6,0.5422,-1.901114965,0.871173887,0.328973887,www.dx.doi.org/10.1524/zkri.
 ZnGeP2,1.1667,-0.210394122,1.185869873,0.019169873,"Pfister, H. Kristallstruktur von ternaeren Verbindungen der Art A(II) B(IV) C(III)2 Acta Crystallographica (1,1948-23,1967) 11 (1958) 221-224",Zn+Ge+P in Bi flux in sealed ampule
 ZnP2,1.4617,-0.249039118,0.857776739,-0.603923261,"White, J.G. The crystal structure of the tetragonal modification of Zn P2 Acta Crystallographica (1,1948-23,1967) 18 (1965) 217-220",1000 C and 40 kbar
 ZnSe,1.1693,-0.711749569,1.264269126,0.094969126,"Wyckoff, R. W. G. Second edition. Interscience Publishers, New York, New York Note: ZnS structure, sphalerite structure Crystal Structures 1 (1963) 85-237",Can be made colloidally
-ZnTe, ,-0.468432605,1.042071922,-0.036628078,"Zachariasen, W H Die Kristallstruktur der Telluride von Zink,Cadmium und Quecksilber Norsk Geologisk Tidsskrift 8 (1926) 302-306",Could be made colloidally
+ZnTe,1.0787,-0.468432605,1.042071922,-0.036628078,"Zachariasen, W H Die Kristallstruktur der Telluride von Zink,Cadmium und Quecksilber Norsk Geologisk Tidsskrift 8 (1926) 302-306",Could be made colloidally
 TiO2,Didn't pass (band gap too large),,,,,
-Sr100Ti200O300,,,,,,
-Sr100Ti200O300,,,,,,
-Sr100Ti200O300,,,,,,
-Sr100Ti200O300,,,,,,
-Sr100Ti200O300,,,,,,
-Sr100Ti200O300,,,,,,
-Sr100Ti200O300,,,,,,
-Sr100Ti200O300,,,,,,
-Sr100Ti200O300,,,,,,
-Sr100Ti200O300,,,,,,
-Sr100Ti200O300,,,,,,
+Ba2PbO4,,,,,,
+Na3Fe5O9,,,,,,
+ZnFe2O4,,,,,,
+Co4Nb2O9,,,,,,
+MgSb2O6,,,,,,
+BaCaFe4O8,,,,,,
+Ba3MnNb2O9,,,,,,
+Fe2TeO6,,,,,,
+Cu2Ta4O11,,,,,,
+Ba6Mn5O16,,,,,,
+ZnSb2O6,,,,,,
 NaInO2,,,,,,
-Sr100Ti200O300,,,,,,
+BaIn2O4,,,,,,
 SrIn2O4,,,,,,
 CaIn2O4,,,,,,
-Sr100Ti200O300,,,,,,
-Sr100Ti200O300,,,,,,
-Sr100Ti200O300,,,,,,
-Sr100Ti200O300,,,,,,
-Sr100Ti200O300,,,,,,
-Sr100Ti200O300,,,,,,
-Sr100Ti200O300,,,,,,
-Sr100Ti200O300,,,,,,
-Sr100Ti200O300,,,,,,
-Sr100Ti200O300,,,,,,
-Sr100Ti200O300,,,,,,
-Sr100Ti200O300,,,,,,
-Sr100Ti200O300,,,,,,
-Sr100Ti200O300,,,,,,
-Sr100Ti200O300,,,,,,
-Sr100Ti200O300,,,,,,
-Sr100Ti200O300,,,,,,
-Sr100Ti200O300,,,,,,
-Sr100Ti200O300,,,,,,
-Sr100Ti200O300,,,,,,
-Sr100Ti200O300,,,,,,
-Sr100Ti200O300,,,,,,
-Sr100Ti200O300,,,,,,
+PbTiO3,,,,,,
+V5W3O20,,,,,,
+InSb2S4Cl,,,,,,
+K6MnSe4,,,,,,
+ZnGeP2,,,,,,
+NaNbO2,,,,,,
+LaSO,,,,,,
+YCuS2,,,,,,
+CaTaNO2,,,,,,
+NbCu3S4,,,,,,
+MgB9N,,,,,,
+SbPb2S2I3,,,,,,
+K2BaNiN6O12,,,,,,
+V2NiTe2O10,,,,,,
+NbBr5,,,,,,
+V2P2H4O11,,,,,,
+Ba3V2P6H6O24,,,,,,
+La4Se3O4,,,,,,
+CsGeI3,,,,,,
+InSb2S4Br,,,,,,
+Cs4Zr3Se14,,,,,,
+La10Se14O,,,,,,
+Sr17Ta10S42,,,,,,
