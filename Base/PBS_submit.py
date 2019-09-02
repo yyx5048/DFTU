@@ -58,20 +58,28 @@ echo " "
 echo "Job started on `hostname` at `date`"
 echo " "
 
-mpirun -np {} hp.x -ndiag 1 -in dftu.in > dftu.out
+mpirun -np {} hp.x -in dftu.in > dftu.out
 
 echo " "
 echo "Job Ended at `date`"
             """.format(nodes,nodes*20))
 
-def pbs_submit(nodes):
+def pbs_submit(typ, nodes):
     """
     Submit PBS file
 
-    Args: (Int) nodes: number of nodes, using default 20 ppn.
+    Args: (Str) typ: calculation types, "pw" or "hp"
+          (Int) nodes: number of nodes, using default 20 ppn.
     Return:
     """
-    create_vc_pbs_file(nodes)
-    subprocess.call(['qsub','calculation.pbs'])
+    if typ == "pw":
+        create_vc_pbs_file(nodes)
+        subprocess.call(['qsub','calculation.pbs'])
+    elif typ == "hp":
+        create_hp_pbs_file(nodes)
+        subprocess.call(['qsub','calculation.pbs'])
+
+    else:
+        raise ValueError("Invalid calculation type passed")
 
     return

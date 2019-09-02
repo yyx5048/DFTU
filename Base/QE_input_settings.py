@@ -83,3 +83,24 @@ def scfu():
                   }
 
     return input_dict
+
+def hp():
+    """
+    Quantum Espresso basic settings for HP calculations
+    Args:
+    Return:
+    """
+
+    with open('uscf.in','w') as f:
+
+        f.write("""&inputUscf
+prefix = 'pwscf',
+outdir = '/tmp',
+nq1 = 1 , nq2 = 1 , nq3 = 1,)
+iverbosity = 2,
+niter_ph = 150,
+alpha_mix(1) = 0.1
+find_atpert = 2,\n
+/\n""")
+
+    return

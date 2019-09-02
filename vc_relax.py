@@ -19,6 +19,7 @@ from ase.io import read, write
 #==============================================================================#
 #  VC-relax from materials project relaxed structures                          #
 #==============================================================================#
+calc_root = os.getcwd()
 
 def record_mp_data(chemform, entry_id):
     """
@@ -122,12 +123,13 @@ def main():
 
             input_generator(mp_structure)
 
-            pbs_submit(1)
+            pbs_submit("pw",1)
 
-            os.chdir('./../../')
+            os.chdir(calc_root)
 
         except (ValueError, FileExistsError) as e:
             print(str(e))
+            os.chdir(calc_root)
             continue
 
 if __name__=="__main__":

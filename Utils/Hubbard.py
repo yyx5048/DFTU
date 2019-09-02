@@ -13,9 +13,9 @@ def initialize_hubbard(structure):
     val = 1e-08
     dftu_list = dftu_elements()#--load DFTU list
 
-    #atom_list = re.sub("\d+", "", structure.formula).split(" ")
+    atom_list = list(structure.symbol_set)
     #--More robust, consider remove all the space, then digits, then capital letters
-    atom_list = re.findall('[A-Z][^A-Z]*', re.sub("\d+", "",re.sub(" ", "" ,structure.formula)))
+    #atom_list = re.findall('[A-Z][^A-Z]*', re.sub("\d+", "",re.sub(" ", "" ,structure.formula)))
 
     for site in atom_list:
         if site in dftu_list:

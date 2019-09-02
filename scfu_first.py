@@ -12,15 +12,16 @@ import pandas as pd
 
 from Base.Pseudos import Pseudos
 from Base.PBS_submit import pbs_submit
-from Base.Elements import dftu_elements
 import Base.QE_input_settings as qe_input
 from ase.io import read, write
+from Utils.whether_DFTU import *
 from Utils.Parser import pw_parser
 from Utils.Hubbard import initialize_hubbard, insert_hubbard_block, reorder
 
 #==============================================================================#
 #  Scf calculations with DFT+U initialized (U = 1e-8)                          #
 #==============================================================================#
+calc_root = os.getcwd()
 
 def read_calculation_list(fname="./Data/Final_DMREF_Materials_List.csv",start = 201, end = 202):#200
     """
@@ -34,23 +35,8 @@ def read_calculation_list(fname="./Data/Final_DMREF_Materials_List.csv",start = 
     mat_list = pd.read_csv(fname)
     return mat_list['Formula'].values[start:end]
 
-def whether_DFTU(chem_form) -> str:
-    """
-    Verify if DFTU is needed based on the dftu_elements
-
-    Args: (Str) chemical formula
-    """
-    atm = re.findall('[A-Z][^A-Z]*', re.sub("\d+", "",re.sub(" ", "" ,chem_form)))
-
-    if not any(x in dftu_elements() for x in atm):
-        raise ValueError("No DFTU elements in {}".format(chem_form))
-
-    return
-
 def mk_scfu_folder(chem_form) -> str:
     """
-    TODO: 1. Add a verification of whether a DFTU is needed
-
     Making folder fo SCFU calculations, the validation of vc-relax is also
     performed.
 
@@ -133,12 +119,13 @@ def main():
 
             ase_input_generator(ase_structure, results['nbnd'])
 
-            pbs_submit(1)
+            pbs_submit("pw",1)
 
-            os.chdir('./../../')
+            os.chdir(calc_root)
 
         except (ValueError, FileNotFoundError) as e:
             print(str(e))
+            os.chdir(calc_root)
             continue
 
 if __name__=="__main__":
