@@ -61,22 +61,22 @@ ions = {'ion_dynamics' : 'bfgs'}
 cell = {'cell_dynamics' : 'bfgs'}
 
 elements_w_dftu = ['Ti', 'V',  'Cr', 'Mn', 'Fe', 'Co', 'Ni', 'Cu', 'Zn',
-                   'Zr', 'Nb', 'Mo', 'Tc', 'Ru', 'Rh', 'Pd', 'Ag', 'Cd', 
+                   'Zr', 'Nb', 'Mo', 'Tc', 'Ru', 'Rh', 'Pd', 'Ag', 'Cd',
                    'Hf', 'Ta', 'W',  'Re', 'Os', 'Ir', 'Pt', 'Au', 'Hg',
                    'La', 'Sr','Ce','Pr','Nd','Pm','Sm','Eu','Gd','Tb','Dy',
                    'Ho','Er','Tm','Yb','Lu','Th','Pa','U', 'Np','Pu','Am',
-                   'Cm','Bk','Cf','Es','Fm','Md','No','Lr','C', 'N', 'O', 'Al', 
+                   'Cm','Bk','Cf','Es','Fm','Md','No','Lr','C', 'N', 'O', 'Al',
                    'Si', 'As' , 'Ga', 'In']
 
 
-def main(): 
+def main():
 
-    #TODO pandas read in the calculations 
+    #TODO pandas read in the calculations
 
 
     for structure_chem_formte_complete_Uscf_file(structure,dftu_elements_in_struc):
         qe_file = PWInput(structure,pseudo = pseudo_dict, control = control, system = system,
-                          electrons=electrons,ions=ions,cell=cell,kpoints_grid = k_pts_grid, 
+                          electrons=electrons,ions=ions,cell=cell,kpoints_grid = k_pts_grid,
                           kpoints_shift = (0,0,0))
 
         qe_file.write_file("dftu.in")
@@ -130,7 +130,7 @@ def main():
                     dftu_elements_in_struc.append(el)
             at_no +=1
 
-                
+
 
         create_complete_Uscf_file(structure,dftu_elements_in_struc)
         qe_file = PWInput(structure,pseudo_lib = 'GBRV_US',control = control,system = system,electrons=electrons,ions=ions,cell=cell,kpoints_grid = k_pts_grid, kpoints_shift = (0,0,0))
@@ -165,7 +165,7 @@ def create_complete_Uscf_file(structure,dftu_elements_in_struc):
 
 def create_pbs_file():
     f = open('%s.dftu.pbs'%control['prefix'].replace('(','').replace(')','_'),'w')
-    
+
     f.write("""#PBS -l nodes=1:ppn=20
                #PBS -l walltime=15:00:00:00
                #PBS -l pmem=10gb
@@ -190,7 +190,7 @@ def create_pbs_file():
             """)
     f.close()
 
-    return 
+    return
 
 def create_Uscf_file(atom_no):
     f = open('uscf.at{}.in'.format(atom_no),'w')
@@ -204,7 +204,7 @@ def create_Uscf_file(atom_no):
                niter_ph = 150,
                /""".format(control['prefix'],control['outdir'],atom_no))
     return
-    
+
 
 
 def find_structure_bandgap(chemical_formula):

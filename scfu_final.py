@@ -17,13 +17,12 @@ from Base.Elements import transition_metal_elements
 
 from ase.io import read, write
 from Utils.whether_DFTU import *
-from Utils.Parser import pw_parser
+from Utils.Parser import hp_parser
 from Utils.Hubbard import initialize_hubbard, insert_hubbard_block, reorder
 
 #==============================================================================#
 #  Final Scf calculations with DFT+U                                           #
 #==============================================================================#
-#TODO should we add smearing for smooth convergece for the last step?
 
 calc_root = os.getcwd()
 
@@ -65,9 +64,13 @@ def mk_final_scfu_folder(chem_form,dftu_type = "All") -> str:
 
         if res_dict['status'] == "DONE":
             os.chdir('../')
-            os.mkdir(hp_folder_name)
-            os.chdir(hp_folder_name)
-            os.mkdir('tmp')
+
+            if not os.path.isdir(hp_folder_name):
+                os.mkdir(hp_folder_name)
+                os.chdir(hp_folder_name)
+                os.mkdir('tmp')
+            else:
+                raise FileExistsError("Duplicate folder created")
     else:
         raise FileNotFoundError("Folder did not create.")
 
@@ -86,7 +89,7 @@ def get_scfu_structures():
     return ase_S
 
 
-def ase_input_generator(ase_S, nbnd, dftu_type, hubbard_list):
+def ase_input_generator(ase_S, dftu_type, hubbard_list):
     """
     Using ASE write functions for generate input
     Args: (reordered ASE Structure) ase_S
@@ -108,10 +111,13 @@ def ase_input_generator(ase_S, nbnd, dftu_type, hubbard_list):
                 hubbard_list.pop(kind)
 
     #--update the SYSTEM card
-    SCF_input['SYSTEM']['nbnd'] = nbnd
+    SCF_input['SYSTEM']['occupations'] = 'smearing'
+    SCF_input['SYSTEM']['smearing'] = 'mv'
+    SCF_input['SYSTEM']['degauss'] = 0.005
+
     SCF_input['SYSTEM'].update(insert_hubbard_block(hubbard_list))
 
-    converted_pymat_S = reorder(pymat_S, hubbard_u_list)
+    converted_pymat_S = reorder(pymat_S, hubbard_list)
 
     pseudos = Pseudos(converted_pymat_S)
 
@@ -127,7 +133,7 @@ def main():
 
     DMREF_mat_list, ini_idx = read_calculation_list()
 
-    for idx, mat in enumearte(DMREF_mat_list):
+    for idx, mat in enumerate(DMREF_mat_list):
 
         print("\n###")
         print("nubmer {} materials in the DMREF.csv data list is {}".format(idx+ini_idx,mat))
@@ -138,13 +144,13 @@ def main():
 
             ase_structure = get_scfu_structures()
 
-            ase_input_generator(ase_structure, results['nbnd'], dftu_type, results['dftu'])
+            ase_input_generator(ase_structure, dftu_type, results['dftu'])
 
             pbs_submit("pw",1)
 
             os.chdir(calc_root)
 
-        except (ValueError, FileNotFoundError) as e:
+        except (ValueError, FileExistsError, FileNotFoundError) as e:
             print(str(e))
             os.chdir(calc_root)
             continue

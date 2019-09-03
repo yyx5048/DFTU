@@ -24,5 +24,8 @@ for idx,val in enumerate(df["Formula"].values):
 
     formula_list.append("".join(tmp_form))
 
+dup_idx = 0
 for dup in list_duplicates(formula_list):
+    dup_idx += 1
     print(dup)
+print(dup_idx)
