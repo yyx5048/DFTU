@@ -23,7 +23,7 @@ from Utils.Hubbard import initialize_hubbard, insert_hubbard_block, reorder
 #==============================================================================#
 calc_root = os.getcwd()
 
-def read_calculation_list(fname="./Data/Final_DMREF_Materials_List.csv",start = 201, end = 202):#200
+def read_calculation_list(fname="./Data/Final_DMREF_Materials_List.csv",start = 0, end = 250):
     """
     Obtaion the list of structure to be calculated
 
@@ -33,7 +33,7 @@ def read_calculation_list(fname="./Data/Final_DMREF_Materials_List.csv",start = 
     Return: (numpy array) A list of chemical names (Str) read from DMREF list
     """
     mat_list = pd.read_csv(fname)
-    return mat_list['Formula'].values[start:end]
+    return mat_list['Formula'].values[start:end], start
 
 def mk_scfu_folder(chem_form) -> str:
     """
@@ -58,7 +58,7 @@ def mk_scfu_folder(chem_form) -> str:
             os.chdir('first_scfu')
             os.mkdir('tmp')
     else:
-        raise FileNotFoundError("Folder did not created.")
+        raise FileNotFoundError("Folder is not created.")
 
     return res_dict
 
@@ -104,12 +104,12 @@ def ase_input_generator(ase_S, nbnd):
 def main():
 
     #Read DMREF materials list CSV
-    DMREF_mat_list = read_calculation_list()
+    DMREF_mat_list, ini_idx = read_calculation_list(start = 200, end = 250)
 
     for idx, mat in enumearte(DMREF_mat_list):
 
         print("\n###")
-        print("nubmer {} materials in the DMREF.csv data list is {}".format(idx,mat))
+        print("nubmer {} materials in the DMREF.csv data list is {}".format(ini_idx+idx,mat))
 
         try:
 

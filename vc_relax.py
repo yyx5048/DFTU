@@ -39,7 +39,7 @@ def record_mp_data(chemform, entry_id):
                 f.write(chemform + "    " + entry_id + '\n')
     return
 
-def read_calculation_list(fname="./Data/Final_DMREF_Materials_List.csv",start = 200, end = 205):#200
+def read_calculation_list(fname="./Data/Final_DMREF_Materials_List.csv",start = 0, end = 250):
     """
     Obtaion the list of structure to be calculated
 
@@ -49,7 +49,7 @@ def read_calculation_list(fname="./Data/Final_DMREF_Materials_List.csv",start = 
     Return: (numpy array) A list of chemical names (Str) read from DMREF list
     """
     mat_list = pd.read_csv(fname)
-    return mat_list['Formula'].values[start:end]
+    return mat_list['Formula'].values[start:end], start
 
 
 def get_structure_from_mp(formula) -> str:
@@ -107,11 +107,11 @@ def input_generator(S):
 def main():
 
     #Read DMREF materials list CSV
-    DMREF_mat_list = read_calculation_list()
+    DMREF_mat_list, ini_idx = read_calculation_list()
 
     for idx, mat in enumerate(DMREF_mat_list):
         print("\n###")
-        print("nubmer {} materials in the DMREF.csv data list is {}".format(idx,mat))
+        print("nubmer {} materials in the DMREF.csv data list is {}".format(ini_idx+idx,mat))
 
         try:#sequence of a vc-relax operation
 

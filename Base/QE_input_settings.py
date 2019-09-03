@@ -91,16 +91,17 @@ def hp():
     Return:
     """
 
-    with open('uscf.in','w') as f:
+    with open('dftu.in','w') as f:
 
-        f.write("""&inputUscf
-prefix = 'pwscf',
-outdir = '/tmp',
-nq1 = 1 , nq2 = 1 , nq3 = 1,)
-iverbosity = 2,
-niter_ph = 150,
-alpha_mix(1) = 0.1
-find_atpert = 2,\n
-/\n""")
+        f.write("""&INPUTHP
+  prefix = 'pwscf',
+  outdir = './tmp',
+  max_seconds = 345600,!four days
+  nq1 = 1 , nq2 = 1 , nq3 = 1,
+  iverbosity = 2,
+  niter_max = 150,
+  alpha_mix(1) = 0.1
+  find_atpert = 2,
+/""")
 
     return

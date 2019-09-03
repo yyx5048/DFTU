@@ -43,7 +43,7 @@ def create_hp_pbs_file(nodes):
     with open('calculation.pbs','w') as f:
 
         f.write("""#PBS -l nodes={}:ppn=20
-#PBS -l walltime=48:00:00
+#PBS -l walltime=96:00:00
 #PBS -l pmem=10gb
 #PBS -j oe
 #PBS -A ixd4_c_g_sc_default
