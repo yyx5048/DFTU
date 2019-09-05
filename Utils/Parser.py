@@ -16,6 +16,7 @@ def pw_parser(fname = "dftu.out"):
     parse_dict = {}
 
     _PW_NBND = '     number of Kohn-Sham states='
+    _FINISHED = 'JOB DONE'
 
     #--critical warnings
     _PW_IONIC_MAX = 'The maximum number of steps has been reached.'
@@ -27,6 +28,7 @@ def pw_parser(fname = "dftu.out"):
     Status = "DONE"
 
     indexes = {_PW_NBND: [],
+               _FINISHED: [],
                _PW_IONIC_MAX : [],
                _PW_ELECTRON_MAX : [],
                _PW_DAMP_MAX : [],
@@ -41,19 +43,30 @@ def pw_parser(fname = "dftu.out"):
                 if identifier in line:
                     indexes[identifier].append(idx)
 
-    nbnd = re.sub(r"\s+", "", pwo_lines[indexes[_PW_NBND][0]].split('=')[1])
+    JOB_DONE = indexes[_FINISHED]
 
-    parse_dict['nbnd'] = int(nbnd)
+    if JOB_DONE:
 
-    indexes.pop(_PW_NBND) #remain indexes only contain the failed message
+        nbnd = re.sub(r"\s+", "", pwo_lines[indexes[_PW_NBND][0]].split('=')[1])
 
-    for er in indexes:
-        if len(indexes[er]) != 0:
-            Status = "FAILED"
-            print(os.getcwd())
-            raise ValueError("\n!!!\nCalculation failed!!!\n!!!")
+        parse_dict['nbnd'] = int(nbnd)
+
+        indexes.pop(_FINISHED)
+        indexes.pop(_PW_NBND) #remain indexes only contain the failed message
+
+
+        for er in indexes:
+            if len(indexes[er]) != 0:
+                Status = "FAILED"
+                print(os.getcwd())
+                raise ValueError("\n!!!\nCalculation failed!!!\n!!!")
+    else:
+        Status = "FAILED"
+        print(os.getcwd())
+        raise ValueError("\n!!!\nCalculation failed!!!\n!!!")
 
     parse_dict['status'] = Status
+
     return parse_dict
 
 def hp_parser(std_fname = "dftu.out", fname = "pwscf.Hubbard_parameters.dat"):

@@ -106,7 +106,7 @@ def main():
     #Read DMREF materials list CSV
     DMREF_mat_list, ini_idx = read_calculation_list(start = 200, end = 250)
 
-    for idx, mat in enumearte(DMREF_mat_list):
+    for idx, mat in enumerate(DMREF_mat_list):
 
         print("\n###")
         print("nubmer {} materials in the DMREF.csv data list is {}".format(ini_idx+idx,mat))

@@ -3,9 +3,9 @@ The purpose of this script is to:
 -Retreive chemical info from Materials Project Page
 -Convert Info into Quantum Espresso input file & submit to server
 -Check final output to ensure that it's converged
--Calculate Hubbard U param. 
+-Calculate Hubbard U param.
 -Iterate until Hubbard U converges w/in .01 eV
--Extract material properties 
+-Extract material properties
 '''
 
 
@@ -22,7 +22,7 @@ elements_w_dftu = ['Sc', 'Ti',  'V', 'Cr', 'Mn', 'Fe', 'Co', 'Ni', 'Cu', 'Zn',
                    'Ce', 'Pr', 'Nd', 'Pm', 'Sm', 'Eu', 'Gd', 'Tb', 'Dy', 'Ho', 'Er', 'Tm', 'Yb', 'Lu',
                    'Th', 'Pa',  'U', 'Np', 'Pu', 'Am', 'Cm', 'Bk', 'Cf', 'Es', 'Fm', 'Md', 'No', 'Lr']
 
-def main(): 
+def main():
 
     # Grab all the files in the current folder
     files = glob.glob("*")
@@ -51,7 +51,7 @@ def main():
         chem_formula = glob.glob("*_VCRelax_1.in")[0].split("_")[0]
 
         if Job_Done == True:
-            # Check to see if the previous calculation was a VCRelax or HP 
+            # Check to see if the previous calculation was a VCRelax or HP
             if "VCRelax" in file_status:
                 # Parse the XML file for pertinent information
                 Parse_XML(file_status.split("_")[0],input_dict)
@@ -145,14 +145,14 @@ def main():
 
         else:
             print("Unknown error has occurred. You will need to check the files.")
-            sys.exit()           
+            sys.exit()
 
     else:
         Initialize_Structure()
 
 def Initialize_Structure():
 
-    from pymatgen.io.ase import AseAtomsAdaptor 
+    from pymatgen.io.ase import AseAtomsAdaptor
 
     #pass in structure as first variable in command line
     try:
@@ -160,7 +160,7 @@ def Initialize_Structure():
     except:
         print("Please type the chemical formula after the python script.")
         chem_formula = input()
- 
+
     if not os.path.isdir(chem_formula):
         os.mkdir(chem_formula)
     os.chdir(chem_formula)
@@ -168,7 +168,7 @@ def Initialize_Structure():
     #get chem_formula from materials project page and returns structure info
     structure, e_form, bandgap = Mat_Proj_Struct(chem_formula)
 
-    #convert to from pymatgen to ase 
+    #convert to from pymatgen to ase
     ase_data = AseAtomsAdaptor()
     ase_data = ase_data.get_atoms(structure)
 
@@ -193,7 +193,7 @@ def Initialize_Structure():
     QE_input = QE_Settings()
     QE_input['SYSTEM']['nat'] = len(ase_data.get_chemical_symbols())
 
-    write("%s_VCRelax_1.in" %(chem_formula), ase_data, format = "espresso-in", pseudopotentials=pseudos, input_data = QE_input, kspacing=0.04) 
+    write("%s_VCRelax_1.in" %(chem_formula), ase_data, format = "espresso-in", pseudopotentials=pseudos, input_data = QE_input, kspacing=0.04)
     Submit_pbs_in(chem_formula, "VCR", 1,QE_input)
 
     f = open("Status.txt",'w')
@@ -201,7 +201,7 @@ def Initialize_Structure():
     f.close()
 
     os.chdir('../')
-    
+
 def Check_Status():
 
     # Open the status file and read which calculation is currently going
@@ -217,7 +217,7 @@ def Check_Status():
 def Parse_Input(filetype='VCRelax',iternum=1):
 
     input_file = glob.glob("*_%s_%s.in"%(filetype,iternum))[0]
-        
+
     input_dict = {}
 
     parse = False
@@ -228,10 +228,10 @@ def Parse_Input(filetype='VCRelax',iternum=1):
                 key = line.strip().lstrip("&")
                 input_dict[key] = {}
                 parse = True
-    
+
             elif "/\n" in line:
                 parse = False
-    
+
             elif parse:
                 temp = line.strip().rstrip(",").split("=")
                 if 'd-' in temp[1]:
@@ -295,7 +295,7 @@ def Pseudos(atype):
 
     return pseudo_out
 
-    
+
 def QE_Settings():
 
     QE_Input = {"CONTROL" : {"calculation":"vc-relax",
@@ -311,7 +311,7 @@ def QE_Settings():
                             "ecutrho" : 720,
                             "occupations" : "smearing",
                             "smearing" : "mv",
-                            "degauss" : 0.005 },                
+                            "degauss" : 0.005 },
                 "ELECTRONS" : {"conv_thr" : 1.0e-6,
                                "mixing_beta" : 0.70,
                                "electron_maxstep" : 100,
@@ -365,7 +365,7 @@ def Submit_pbs_in(chem_formula, calc_type, iternum, input_dict, n = 1, ppn = 20,
     # Specify filename based on calculation type
     filename = ''
     if calc_type == "VCR":
-        filename = chem_formula + "_VCRelax_" + str(iternum) 
+        filename = chem_formula + "_VCRelax_" + str(iternum)
     elif calc_type == "U":
         SCF = chem_formula + "_SCF_" + str(iternum)
         filename = chem_formula + "_HP_" + str(iternum)
@@ -406,7 +406,7 @@ cd $PBS_O_WORKDIR
 
 mpirun -np 20 /gpfs/group/ixd4/default/software/qe_6.4.1-environ_1.1/qe_6.4.1/bin/hp.x -ndiag 1 -in {1}.in > {1}.out
 
-""".format(SCF,filename)) 
+""".format(SCF,filename))
 
     f.write("python ~/work/Codes/bandgap_U.py >> python_output.txt")
 
@@ -420,11 +420,11 @@ def Error_Check(file_status,input_dict):
     filename = glob.glob("*_%s.out"%(file_status))[0]
 
     Job_Done = False
-    
+
     if "VCRelax" in filename:
         with open(filename) as infile:
             for line in infile:
-    
+
                 # Electron density did not converge with fixed occupations
                 # Restart simulation with smearing
 
@@ -444,21 +444,21 @@ def Error_Check(file_status,input_dict):
                 elif 'iterations completed, stopping' in line:
                     print("Maximum number of iterations reached in Wentzcovitch Damped Dynamics.")
                     sys.exit()
-    
+
                 elif "The maximum number of steps has been reached." in line:
                     print("Maximum number of ionic/electronic relaxation has been reached.")
                     sys.exit()
-    
+
                 # Take the final coordinates and restart the calculation
                 elif "Maximum CPU time exceeded" in line:
                     print("Maximum CPU time exceeded")
                     Job_Done = "Restart"
-   
-                # Will come back and fill in with possible errors as we get them. 
+
+                # Will come back and fill in with possible errors as we get them.
                 elif "%%%%%%%%%%" in line:
                     print("Fatal error %%%%% \n Manual Edit \n")
                     sys.exit()
-    
+
                 elif "JOB DONE." in line:
                     print("NO ERRORS")
                     Job_Done = True
@@ -494,7 +494,7 @@ def Write_HP(chem_formula,iter_num,QE_Input):
 
     f = open("%s_HP_%s.in"%(chem_formula,iter_num), 'w')
     #what is &inputhp
-    f.write("""&inputhp 
+    f.write("""&inputhp
 prefix = '%s',
 outdir = '%s',
 nq1 = 2, nq2 = 2, nq3 = 2,
@@ -557,8 +557,8 @@ def Read_Hubbard_U(input_dict):
     for i,key in enumerate(keys):
         print(Hubbard_dict[key])
         input_dict['SYSTEM']['Hubbard_U(%s)'%(i+1)] = np.round(np.average(Hubbard_dict[key]),decimals=2)
-    
-    return input_dict 
+
+    return input_dict
 
 def Parse_XML(calc_type,input_dict):
 
@@ -568,7 +568,7 @@ def Parse_XML(calc_type,input_dict):
     # Get the xml information
     tree = ET.parse(xml_file)
     root = tree.getroot()
-    
+
     # Initialize large values for CBM and VBM
     CBM = 100000
     VBM = -100000
