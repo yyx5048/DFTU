@@ -109,7 +109,8 @@ def ase_input_generator(ase_S, hubbard_list, nbnd, dftu_type = "All"):
         pass
 
     elif dftu_type == "TM_only":
-        for kind in hubbard_list:
+        hubbard_list_iterator = hubbard_list.copy() #--avoid size change during iteration
+        for kind in hubbard_list_iterator:
             if kind not in transition_metal_elements():
                 hubbard_list.pop(kind)
 
