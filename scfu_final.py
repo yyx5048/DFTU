@@ -89,7 +89,7 @@ def get_scfu_structures():
     return ase_S, nbnd
 
 
-def ase_input_generator(ase_S, dftu_type, hubbard_list, nbnd):
+def ase_input_generator(ase_S, hubbard_list, nbnd, dftu_type = "All"):
     """
     Using ASE write functions for generate input
     Args: (reordered ASE Structure) ase_S
@@ -149,7 +149,7 @@ def main():
 
             ase_structure, nbnd = get_scfu_structures()
 
-            ase_input_generator(ase_structure, dftu_type, results['dftu'], nbnd)
+            ase_input_generator(ase_structure, results['dftu'], nbnd, dftu_type)
 
             pbs_submit("pw",1)
 
