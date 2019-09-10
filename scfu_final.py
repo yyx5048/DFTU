@@ -17,7 +17,7 @@ from Base.Elements import transition_metal_elements
 
 from ase.io import read, write
 from Utils.whether_DFTU import *
-from Utils.Parser import hp_parser
+from Utils.Parser import hp_parser, pw_parser
 from Utils.Hubbard import initialize_hubbard, insert_hubbard_block, reorder
 
 #==============================================================================#
@@ -85,11 +85,11 @@ def get_scfu_structures():
     Returns: (ASE_Structure)
     """
     ase_S = read("../first_scfu/dftu.in", format='espresso-in')
+    nbnd = pw_parser(fname = "../first_scfu/dftu.out")['nbnd']
+    return ase_S, nbnd
 
-    return ase_S
 
-
-def ase_input_generator(ase_S, dftu_type, hubbard_list):
+def ase_input_generator(ase_S, dftu_type, hubbard_list, nbnd):
     """
     Using ASE write functions for generate input
     Args: (reordered ASE Structure) ase_S
@@ -105,15 +105,20 @@ def ase_input_generator(ase_S, dftu_type, hubbard_list):
     pymat_S = AseAtomsAdaptor.get_structure(ase_S)
     #-- still needs to be reordered depends on the dftu_type
 
-    if dftu_type == "TM_only":
+    if dftu_type == "all":
+        pass
+
+    elif dftu_type == "TM_only":
         for kind in hubbard_list:
             if kind not in transition_metal_elements():
                 hubbard_list.pop(kind)
 
-    #--update the SYSTEM card
-    SCF_input['SYSTEM']['occupations'] = 'smearing'
-    SCF_input['SYSTEM']['smearing'] = 'mv'
-    SCF_input['SYSTEM']['degauss'] = 0.005
+    #--update the SYSTEM card with smearing settings
+    #SCF_input['SYSTEM']['occupations'] = 'smearing'
+    #SCF_input['SYSTEM']['smearing'] = 'mv'
+    #SCF_input['SYSTEM']['degauss'] = 0.005
+
+    SCF_input['SYSTEM']['nbnd'] = nbnd
 
     SCF_input['SYSTEM'].update(insert_hubbard_block(hubbard_list))
 
@@ -142,9 +147,9 @@ def main():
 
             results = mk_final_scfu_folder(mat, dftu_type = dftu_type)
 
-            ase_structure = get_scfu_structures()
+            ase_structure, nbnd = get_scfu_structures()
 
-            ase_input_generator(ase_structure, dftu_type, results['dftu'])
+            ase_input_generator(ase_structure, dftu_type, results['dftu'], nbnd)
 
             pbs_submit("pw",1)
 

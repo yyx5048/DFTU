@@ -152,7 +152,6 @@ def hp_parser(std_fname = "dftu.out", fname = "pwscf.Hubbard_parameters.dat"):
         else:
             dftu_parse_dict[l[2]].append(float(l[-1]))
 
-    print(dftu_parse_dict)
     for k in dftu_parse_dict:#average the Hubbard U
         dftu_parse_dict[k] = np.mean(np.array(dftu_parse_dict[k]))
 

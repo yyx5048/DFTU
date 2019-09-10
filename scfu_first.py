@@ -104,7 +104,7 @@ def ase_input_generator(ase_S, nbnd):
 def main():
 
     #Read DMREF materials list CSV
-    DMREF_mat_list, ini_idx = read_calculation_list(start = 200, end = 250)
+    DMREF_mat_list,ac ini_idx = read_calculation_list(start = 200, end = 250)
 
     for idx, mat in enumerate(DMREF_mat_list):
 
